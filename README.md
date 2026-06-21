@@ -15,12 +15,10 @@ of an appeal to the Boulder County **Board of Adjustment**.
    (section, date, type, facility/permit number). Analysts: start with the CSV.
 3. **`TIMELINE.md`** — every dated document in chronological order. The fastest way to see
    *what was built and permitted when* — the crux of a nonconforming-use case.
-4. **`01_Case_Overview_and_GNoL_Position`** — the plain-language framing of the dispute.
 
 ## Sections
 | Folder | Contents |
 |---|---|
-| `01_Case_Overview_and_GNoL_Position` | Proposals, timelines, talking points, responses to the County. |
 | `02_Nonconforming_Use_Evidence` | The core: new structures on the site, County determinations, the Board of Adjustment record, the *Sierra v. Billingsley* precedent, and the Martin Marietta precedent. |
 | `03_State_Mining_Permit_M1977208` | DRMS permit for the Lyons plant/quarry: technical revisions, inspections, reclamation. |
 | `04_Dowe_Flats_M1993041` | The Dowe Flats mining/reclamation permit. |

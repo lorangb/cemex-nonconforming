@@ -1,12 +1,4 @@
 section,subfolder,filename,date,doc_type,facility_or_case,ext,path
-01_Case_Overview_and_GNoL_Position,,BoCo Planning Commission Talking Points 8.17.22.xlsx,2022-08-17,Talking points,,xlsx,01_Case_Overview_and_GNoL_Position/BoCo Planning Commission Talking Points 8.17.22.xlsx
-01_Case_Overview_and_GNoL_Position,,BoCo Planning Commission Talking Points 9.1.22.docx,2022-09-01,Talking points,,docx,01_Case_Overview_and_GNoL_Position/BoCo Planning Commission Talking Points 9.1.22.docx
-01_Case_Overview_and_GNoL_Position,,BoCo Planning Commission Talking Points 9.1.22.xlsx,2022-09-01,Talking points,,xlsx,01_Case_Overview_and_GNoL_Position/BoCo Planning Commission Talking Points 9.1.22.xlsx
-01_Case_Overview_and_GNoL_Position,,CEMEX Lyons - An Alternative Proposal - 07.07.2022 [CONFIDENTIAL DRAFT].pdf,2022-07-07,Proposal,,pdf,01_Case_Overview_and_GNoL_Position/CEMEX Lyons - An Alternative Proposal - 07.07.2022 [CONFIDENTIAL DRAFT].pdf
-01_Case_Overview_and_GNoL_Position,,CEMEX Permit Application Questions and Concerns.docx,,Permit,,docx,01_Case_Overview_and_GNoL_Position/CEMEX Permit Application Questions and Concerns.docx
-01_Case_Overview_and_GNoL_Position,,CEMEX Proposal Options.pdf,,Proposal,,pdf,01_Case_Overview_and_GNoL_Position/CEMEX Proposal Options.pdf
-01_Case_Overview_and_GNoL_Position,,Planning Commission Talking Points.docx,,Talking points,,docx,01_Case_Overview_and_GNoL_Position/Planning Commission Talking Points.docx
-01_Case_Overview_and_GNoL_Position,,Public Copy of CEMEX Financial Analysis & Proposal Options [v1.0].xlsx,,Proposal,,xlsx,01_Case_Overview_and_GNoL_Position/Public Copy of CEMEX Financial Analysis & Proposal Options [v1.0].xlsx
 02_Nonconforming_Use_Evidence,,CEMEX Timelines - Technical Revisions & Non-Conforming Uses.xlsx,,Revision,,xlsx,02_Nonconforming_Use_Evidence/CEMEX Timelines - Technical Revisions & Non-Conforming Uses.xlsx
 02_Nonconforming_Use_Evidence,,Non-Conforming Uses for Lyons Quarry.pdf,,Document,,pdf,02_Nonconforming_Use_Evidence/Non-Conforming Uses for Lyons Quarry.pdf
 02_Nonconforming_Use_Evidence,,Response to BOCO Oct 2023 letter.pdf,2023-10-00,Letter,,pdf,02_Nonconforming_Use_Evidence/Response to BOCO Oct 2023 letter.pdf
@@ -247,7 +239,7 @@ section,subfolder,filename,date,doc_type,facility_or_case,ext,path
 05_Air_Quality_Permit_95OPBO082,Inspection_and_Stack_Test_Reports,Data History - 013-0003-001_2007 INSP RPT_05BO0703_11_7_2007.pdf,,Inspection,95OPBO082 (air permit),pdf,05_Air_Quality_Permit_95OPBO082/Inspection_and_Stack_Test_Reports/Data History - 013-0003-001_2007 INSP RPT_05BO0703_11_7_2007.pdf
 05_Air_Quality_Permit_95OPBO082,Inspection_and_Stack_Test_Reports,GHG Permitting Guidance - EPA.pdf,,Permit,95OPBO082 (air permit),pdf,05_Air_Quality_Permit_95OPBO082/Inspection_and_Stack_Test_Reports/GHG Permitting Guidance - EPA.pdf
 05_Air_Quality_Permit_95OPBO082,Inspection_and_Stack_Test_Reports,RHP PO CEMEX LYONS__7_12_2018.pdf,,Document,95OPBO082 (air permit),pdf,05_Air_Quality_Permit_95OPBO082/Inspection_and_Stack_Test_Reports/RHP PO CEMEX LYONS__7_12_2018.pdf
-05_Air_Quality_Permit_95OPBO082,Inspection_and_Stack_Test_Reports,view.html,,Document,95OPBO082 (air permit),html,05_Air_Quality_Permit_95OPBO082/Inspection_and_Stack_Test_Reports/view.html
+05_Air_Quality_Permit_95OPBO082,Inspection_and_Stack_Test_Reports,view.html,,Web page,95OPBO082 (air permit),html,05_Air_Quality_Permit_95OPBO082/Inspection_and_Stack_Test_Reports/view.html
 05_Air_Quality_Permit_95OPBO082,Permits_and_Technical_Reviews,CEMEX-Construction-Materials-South-Addendum-Revised-Technical-Review-Doc-July-2009.pdf,2009-00-00,Document,95OPBO082 (air permit),pdf,05_Air_Quality_Permit_95OPBO082/Permits_and_Technical_Reviews/CEMEX-Construction-Materials-South-Addendum-Revised-Technical-Review-Doc-July-2009.pdf
 05_Air_Quality_Permit_95OPBO082,Permits_and_Technical_Reviews,CEMEX-Construction-Materials-South-Revised-Technical-Review-DOC-Mar-2008.pdf,2008-00-00,Document,95OPBO082 (air permit),pdf,05_Air_Quality_Permit_95OPBO082/Permits_and_Technical_Reviews/CEMEX-Construction-Materials-South-Revised-Technical-Review-DOC-Mar-2008.pdf
 05_Air_Quality_Permit_95OPBO082,Permits_and_Technical_Reviews,CEMEX-Construction-Materials-South-Revised-Technical-Review-Doc-Apr-2013.pdf,2013-00-00,Document,95OPBO082 (air permit),pdf,05_Air_Quality_Permit_95OPBO082/Permits_and_Technical_Reviews/CEMEX-Construction-Materials-South-Revised-Technical-Review-Doc-Apr-2013.pdf
@@ -271,10 +263,15 @@ section,subfolder,filename,date,doc_type,facility_or_case,ext,path
 06_Boulder_County_Land_Use,Lyons_Area_Rezoning_Z-23-0002,Z-23-0002 Lyons Comprehensive Rezoning_Packet PC 2.21.2024.pdf,2024-02-21,Document,Z-23-0002,pdf,06_Boulder_County_Land_Use/Lyons_Area_Rezoning_Z-23-0002/Z-23-0002 Lyons Comprehensive Rezoning_Packet PC 2.21.2024.pdf
 06_Boulder_County_Land_Use,SU-22-0003,5D - Caribou Easement.pdf,,Document,SU-22-0003,pdf,06_Boulder_County_Land_Use/SU-22-0003/5D - Caribou Easement.pdf
 06_Boulder_County_Land_Use,SU-22-0003,BL - Thoughts on CEMEX Letter.docx,,Letter,SU-22-0003,docx,06_Boulder_County_Land_Use/SU-22-0003/BL - Thoughts on CEMEX Letter.docx
+06_Boulder_County_Land_Use,SU-22-0003,BoCo Planning Commission Talking Points 8.17.22.xlsx,2022-08-17,Talking points,SU-22-0003,xlsx,06_Boulder_County_Land_Use/SU-22-0003/BoCo Planning Commission Talking Points 8.17.22.xlsx
+06_Boulder_County_Land_Use,SU-22-0003,BoCo Planning Commission Talking Points 9.1.22.docx,2022-09-01,Talking points,SU-22-0003,docx,06_Boulder_County_Land_Use/SU-22-0003/BoCo Planning Commission Talking Points 9.1.22.docx
+06_Boulder_County_Land_Use,SU-22-0003,BoCo Planning Commission Talking Points 9.1.22.xlsx,2022-09-01,Talking points,SU-22-0003,xlsx,06_Boulder_County_Land_Use/SU-22-0003/BoCo Planning Commission Talking Points 9.1.22.xlsx
+06_Boulder_County_Land_Use,SU-22-0003,CEMEX Permit Application Questions and Concerns.docx,,Permit,SU-22-0003,docx,06_Boulder_County_Land_Use/SU-22-0003/CEMEX Permit Application Questions and Concerns.docx
 06_Boulder_County_Land_Use,SU-22-0003,CEMEX Response to Town of Lyons Comments (8.4.22) executed.pdf,2022-08-04,Document,SU-22-0003,pdf,06_Boulder_County_Land_Use/SU-22-0003/CEMEX Response to Town of Lyons Comments (8.4.22) executed.pdf
 06_Boulder_County_Land_Use,SU-22-0003,Dale Case - Questions re Dowe Flats.pdf,,Document,SU-22-0003,pdf,06_Boulder_County_Land_Use/SU-22-0003/Dale Case - Questions re Dowe Flats.pdf
 06_Boulder_County_Land_Use,SU-22-0003,McCurry_Dowe-Flats_SU-22-0003_Comments_09-09-22draft.docx,,Document,SU-22-0003,docx,06_Boulder_County_Land_Use/SU-22-0003/McCurry_Dowe-Flats_SU-22-0003_Comments_09-09-22draft.docx
 06_Boulder_County_Land_Use,SU-22-0003,"OSCAR - Climate, Emissions, Equity impacts of CEMEX - FINAL.pdf",,Document,SU-22-0003,pdf,"06_Boulder_County_Land_Use/SU-22-0003/OSCAR - Climate, Emissions, Equity impacts of CEMEX - FINAL.pdf"
+06_Boulder_County_Land_Use,SU-22-0003,Planning Commission Talking Points.docx,,Talking points,SU-22-0003,docx,06_Boulder_County_Land_Use/SU-22-0003/Planning Commission Talking Points.docx
 06_Boulder_County_Land_Use,SU-22-0003,Public Comments Sep 7th to 14th.pdf,,Document,SU-22-0003,pdf,06_Boulder_County_Land_Use/SU-22-0003/Public Comments Sep 7th to 14th.pdf
 06_Boulder_County_Land_Use,SU-22-0003,Redlined Staff Packet - 8.17.2022.pdf,2022-08-17,Staff packet,SU-22-0003,pdf,06_Boulder_County_Land_Use/SU-22-0003/Redlined Staff Packet - 8.17.2022.pdf
 06_Boulder_County_Land_Use,SU-22-0003,Redlined Staff Recommendation.pdf,,Staff recommendation,SU-22-0003,pdf,06_Boulder_County_Land_Use/SU-22-0003/Redlined Staff Recommendation.pdf
@@ -388,6 +385,7 @@ section,subfolder,filename,date,doc_type,facility_or_case,ext,path
 08_Operational_History_and_Traffic,GNL_Submissions_to_County,sarahlorang_e_mail_4_11_23.pdf,,Document,,pdf,08_Operational_History_and_Traffic/GNL_Submissions_to_County/sarahlorang_e_mail_4_11_23.pdf
 08_Operational_History_and_Traffic,Historical_Data,CEMEX Historical Data.xlsx,,Spreadsheet,,xlsx,08_Operational_History_and_Traffic/Historical_Data/CEMEX Historical Data.xlsx
 08_Operational_History_and_Traffic,Historical_Data,MJC CEMEX.xlsx,,Spreadsheet,,xlsx,08_Operational_History_and_Traffic/Historical_Data/MJC CEMEX.xlsx
+08_Operational_History_and_Traffic,Historical_Data,PT0658_Wyoming_Traffic_Calculations.csv,,Data,PT0658 (Wyoming),csv,08_Operational_History_and_Traffic/Historical_Data/PT0658_Wyoming_Traffic_Calculations.csv
 09_Correspondence,County_and_Commissioners,1-2-3 mile concentric rings map_20220718.pdf,,Document,,pdf,09_Correspondence/County_and_Commissioners/1-2-3 mile concentric rings map_20220718.pdf
 09_Correspondence,County_and_Commissioners,BOCO COMM CEMEX LETTER.pdf,,Letter,,pdf,09_Correspondence/County_and_Commissioners/BOCO COMM CEMEX LETTER.pdf
 09_Correspondence,County_and_Commissioners,CEMEX Plant Upgrade Research 08.2023 - Google Docs.pdf,2023-00-00,Document,,pdf,09_Correspondence/County_and_Commissioners/CEMEX Plant Upgrade Research 08.2023 - Google Docs.pdf

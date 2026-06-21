@@ -1,19 +1,6 @@
 # Document Index
 
-617 documents. See `INDEX.csv` for the sortable version.
-
-## 01_Case_Overview_and_GNoL_Position
-
-| Date | Document | Subfolder | Type | Facility/Case |
-|---|---|---|---|---|
-| 2022-08-17 | BoCo Planning Commission Talking Points 8.17.22.xlsx |  | Talking points |  |
-| 2022-09-01 | BoCo Planning Commission Talking Points 9.1.22.docx |  | Talking points |  |
-| 2022-09-01 | BoCo Planning Commission Talking Points 9.1.22.xlsx |  | Talking points |  |
-| 2022-07-07 | CEMEX Lyons - An Alternative Proposal - 07.07.2022 [CONFIDENTIAL DRAFT].pdf |  | Proposal |  |
-|  | CEMEX Permit Application Questions and Concerns.docx |  | Permit |  |
-|  | CEMEX Proposal Options.pdf |  | Proposal |  |
-|  | Planning Commission Talking Points.docx |  | Talking points |  |
-|  | Public Copy of CEMEX Financial Analysis & Proposal Options [v1.0].xlsx |  | Proposal |  |
+615 documents. See `INDEX.csv` for the sortable version.
 
 ## 02_Nonconforming_Use_Evidence
 
@@ -274,7 +261,7 @@
 |  | Data History - 013-0003-001_2007 INSP RPT_05BO0703_11_7_2007.pdf | Inspection_and_Stack_Test_Reports | Inspection | 95OPBO082 (air permit) |
 |  | GHG Permitting Guidance - EPA.pdf | Inspection_and_Stack_Test_Reports | Permit | 95OPBO082 (air permit) |
 |  | RHP PO CEMEX LYONS__7_12_2018.pdf | Inspection_and_Stack_Test_Reports | Document | 95OPBO082 (air permit) |
-|  | view.html | Inspection_and_Stack_Test_Reports | Document | 95OPBO082 (air permit) |
+|  | view.html | Inspection_and_Stack_Test_Reports | Web page | 95OPBO082 (air permit) |
 | 2009-00-00 | CEMEX-Construction-Materials-South-Addendum-Revised-Technical-Review-Doc-July-2009.pdf | Permits_and_Technical_Reviews | Document | 95OPBO082 (air permit) |
 | 2008-00-00 | CEMEX-Construction-Materials-South-Revised-Technical-Review-DOC-Mar-2008.pdf | Permits_and_Technical_Reviews | Document | 95OPBO082 (air permit) |
 | 2013-00-00 | CEMEX-Construction-Materials-South-Revised-Technical-Review-Doc-Apr-2013.pdf | Permits_and_Technical_Reviews | Document | 95OPBO082 (air permit) |
@@ -303,10 +290,15 @@
 | 2024-02-21 | Z-23-0002 Lyons Comprehensive Rezoning_Packet PC 2.21.2024.pdf | Lyons_Area_Rezoning_Z-23-0002 | Document | Z-23-0002 |
 |  | 5D - Caribou Easement.pdf | SU-22-0003 | Document | SU-22-0003 |
 |  | BL - Thoughts on CEMEX Letter.docx | SU-22-0003 | Letter | SU-22-0003 |
+| 2022-08-17 | BoCo Planning Commission Talking Points 8.17.22.xlsx | SU-22-0003 | Talking points | SU-22-0003 |
+| 2022-09-01 | BoCo Planning Commission Talking Points 9.1.22.docx | SU-22-0003 | Talking points | SU-22-0003 |
+| 2022-09-01 | BoCo Planning Commission Talking Points 9.1.22.xlsx | SU-22-0003 | Talking points | SU-22-0003 |
+|  | CEMEX Permit Application Questions and Concerns.docx | SU-22-0003 | Permit | SU-22-0003 |
 | 2022-08-04 | CEMEX Response to Town of Lyons Comments (8.4.22) executed.pdf | SU-22-0003 | Document | SU-22-0003 |
 |  | Dale Case - Questions re Dowe Flats.pdf | SU-22-0003 | Document | SU-22-0003 |
 |  | McCurry_Dowe-Flats_SU-22-0003_Comments_09-09-22draft.docx | SU-22-0003 | Document | SU-22-0003 |
 |  | OSCAR - Climate, Emissions, Equity impacts of CEMEX - FINAL.pdf | SU-22-0003 | Document | SU-22-0003 |
+|  | Planning Commission Talking Points.docx | SU-22-0003 | Talking points | SU-22-0003 |
 |  | Public Comments Sep 7th to 14th.pdf | SU-22-0003 | Document | SU-22-0003 |
 | 2022-08-17 | Redlined Staff Packet - 8.17.2022.pdf | SU-22-0003 | Staff packet | SU-22-0003 |
 |  | Redlined Staff Recommendation.pdf | SU-22-0003 | Staff recommendation | SU-22-0003 |
@@ -430,6 +422,7 @@
 |  | sarahlorang_e_mail_4_11_23.pdf | GNL_Submissions_to_County | Document |  |
 |  | CEMEX Historical Data.xlsx | Historical_Data | Spreadsheet |  |
 |  | MJC CEMEX.xlsx | Historical_Data | Spreadsheet |  |
+|  | PT0658_Wyoming_Traffic_Calculations.csv | Historical_Data | Data | PT0658 (Wyoming) |
 
 ## 09_Correspondence
 

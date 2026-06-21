@@ -308,17 +308,16 @@ Dates ending in `-00` mean only the month or year is known. Verify against the d
 | 2022-03-29 | Outdoor Lighting - Boulder County Land Use Code, updated March 29, 2022.pdf | 06_Boulder_County_Land_Use |  |
 | 2022-05-09 | 2022-05-09_REVISION - M1977208.pdf | 03_State_Mining_Permit_M1977208 | M-1977-208 (Lyons mine) |
 | 2022-06-09 | Dowe Flats Mining Permit Discussion - 6.9.2022.pdf | 04_Dowe_Flats_M1993041 | M-1993-041 (Dowe Flats) |
-| 2022-07-07 | CEMEX Lyons - An Alternative Proposal - 07.07.2022 [CONFIDENTIAL DRAFT].pdf | 01_Case_Overview_and_GNoL_Position |  |
 | 2022-07-15 | Notes from 7-15-22 call with Amy Eschberger.docx | 09_Correspondence |  |
 | 2022-07-26 | Drilling Wells - 2022-07-26_HYDROLOGY - M1977208.pdf | 02_Nonconforming_Use_Evidence | M-1977-208 (Lyons mine) |
 | 2022-08-04 | CEMEX Response to Town of Lyons Comments (8.4.22) executed.pdf | 06_Boulder_County_Land_Use | SU-22-0003 |
-| 2022-08-17 | BoCo Planning Commission Talking Points 8.17.22.xlsx | 01_Case_Overview_and_GNoL_Position |  |
+| 2022-08-17 | BoCo Planning Commission Talking Points 8.17.22.xlsx | 06_Boulder_County_Land_Use | SU-22-0003 |
 | 2022-08-17 | Redlined Staff Packet - 8.17.2022.pdf | 06_Boulder_County_Land_Use | SU-22-0003 |
 | 2022-08-23 | Exhibit C- Pete L_Orange - Ask a Planner - Bart Lorang 8.23.2022.pdf | 02_Nonconforming_Use_Evidence |  |
 | 2022-08-24 | 2022-08-24_GENERAL DOCUMENTS - M1977208.pdf | 09_Correspondence | M-1977-208 (Lyons mine) |
 | 2022-08-29 | DRMS Letter to Boulder County 8.29.2022.pdf | 09_Correspondence |  |
-| 2022-09-01 | BoCo Planning Commission Talking Points 9.1.22.docx | 01_Case_Overview_and_GNoL_Position |  |
-| 2022-09-01 | BoCo Planning Commission Talking Points 9.1.22.xlsx | 01_Case_Overview_and_GNoL_Position |  |
+| 2022-09-01 | BoCo Planning Commission Talking Points 9.1.22.docx | 06_Boulder_County_Land_Use | SU-22-0003 |
+| 2022-09-01 | BoCo Planning Commission Talking Points 9.1.22.xlsx | 06_Boulder_County_Land_Use | SU-22-0003 |
 | 2022-09-06 | 2022-09-06_REVISION - M1977208 (2).pdf | 03_State_Mining_Permit_M1977208 | M-1977-208 (Lyons mine) |
 | 2022-09-07 | Martin Marietta Brief 9.7.2022.pdf | 02_Nonconforming_Use_Evidence |  |
 | 2022-09-07 | Staff Reccommendation Packet 9.7.2022.pdf | 02_Nonconforming_Use_Evidence |  |
