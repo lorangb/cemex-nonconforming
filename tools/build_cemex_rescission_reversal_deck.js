@@ -72,9 +72,9 @@ function callout(slide, text, x, y, w, h, color = C.rust, fill = C.white, size =
   slide.addText(text, { x: x + 0.3, y: y + 0.09, w: w - 0.45, h: h - 0.18, fontSize: size, bold: true, color: C.ink, margin: 0, fit: "shrink" });
 }
 
-function stat(slide, value, label, x, y, w, color = C.rust, size = 31) {
+function stat(slide, value, label, x, y, w, color = C.rust, size = 31, labelColor = C.charcoal) {
   slide.addText(value, { x, y, w, h: 0.54, fontFace: "Aptos Display", fontSize: size, bold: true, color, align: "center", margin: 0, fit: "shrink" });
-  slide.addText(label, { x, y: y + 0.58, w, h: 0.34, fontSize: 9.2, color: C.charcoal, align: "center", margin: 0.02, fit: "shrink" });
+  slide.addText(label, { x, y: y + 0.58, w, h: 0.34, fontSize: 9.2, color: labelColor, align: "center", margin: 0.02, fit: "shrink" });
 }
 
 function bullets(slide, items, x, y, w, h, opts = {}) {
@@ -114,6 +114,38 @@ function barChart(slide, data, x, y, w, h, maxVal, opts = {}) {
   if (opts.caption) {
     slide.addText(opts.caption, { x: x + 0.35, y: y + 0.24, w: w - 0.7, h: 0.22, fontSize: 11.4, bold: true, color: C.ink, margin: 0, fit: "shrink" });
   }
+}
+
+function spectrumChart(slide, data, x, y, w, h, maxVal, opts = {}) {
+  band(slide, x, y, w, h, C.white);
+  const topPad = 0.62;
+  const bottomPad = 0.72;
+  const leftPad = 0.58;
+  const plotW = w - leftPad - 0.4;
+  const plotH = h - topPad - bottomPad;
+  const baseY = y + topPad + plotH;
+  if (opts.caption) {
+    slide.addText(opts.caption, { x: x + 0.32, y: y + 0.22, w: w - 0.62, h: 0.22, fontSize: 11.3, bold: true, color: C.ink, margin: 0, fit: "shrink" });
+  }
+  slide.addShape(pptx.ShapeType.line, { x: x + leftPad, y: baseY, w: plotW, h: 0, line: { color: C.line, width: 1.0 } });
+  if (opts.baseline) {
+    const by = baseY - plotH * (opts.baseline / maxVal);
+    slide.addShape(pptx.ShapeType.line, { x: x + leftPad, y: by, w: plotW, h: 0, line: { color: C.gray, width: 0.8, dash: "dash" } });
+    slide.addText(opts.baselineLabel ?? "1994", { x: x + leftPad + 0.05, y: by - 0.22, w: 1.5, h: 0.16, fontSize: 7.2, color: C.gray, margin: 0, fit: "shrink" });
+  }
+  let prev = null;
+  data.forEach((d, i) => {
+    const px = x + leftPad + (data.length === 1 ? plotW / 2 : (plotW * i) / (data.length - 1));
+    const py = baseY - plotH * (d.value / maxVal);
+    if (prev && !d.noLine && !prev.noLine) {
+      slide.addShape(pptx.ShapeType.line, { x: prev.x, y: prev.y, w: px - prev.x, h: py - prev.y, line: { color: C.rust, width: 1.25 } });
+    }
+    slide.addShape(pptx.ShapeType.ellipse, { x: px - 0.08, y: py - 0.08, w: 0.16, h: 0.16, fill: { color: d.color }, line: { color: C.white, width: 0.8 } });
+    slide.addShape(pptx.ShapeType.line, { x: px, y: py + 0.09, w: 0, h: baseY - py - 0.09, line: { color: d.color, width: 0.8, transparency: 25 } });
+    slide.addText(d.valueText ?? String(Math.round(d.value)), { x: px - 0.34, y: py - 0.35, w: 0.68, h: 0.18, fontSize: 11.4, bold: true, color: d.color, align: "center", margin: 0, fit: "shrink" });
+    slide.addText(d.label, { x: px - 0.48, y: baseY + 0.13, w: 0.96, h: 0.32, fontSize: 7.3, color: C.charcoal, align: "center", margin: 0, fit: "shrink" });
+    prev = { x: px, y: py, noLine: d.noLine };
+  });
 }
 
 function verdictSlide(slide, top, bottom, source) {
@@ -190,44 +222,44 @@ function verdictSlide(slide, top, bottom, source) {
 // 4
 {
   const s = pptx.addSlide();
-  header(s, "The Decisive Exhibit");
-  title(s, "Raw-material truck traffic dwarfs the 1994 baseline.");
-  barChart(s, [
-    { label: "1994 inbound", value: 54, valueText: "54", color: C.gray },
-    { label: "2023 inbound", value: 452, valueText: "452", color: C.red },
-    { label: "2024-25 Wyoming", value: 498, valueText: "498", color: C.rust },
-    { label: "2025-26 Wyoming*", value: 625, valueText: "625", color: C.red },
-  ], 0.72, 1.32, 7.4, 4.85, 650, { caption: "Inbound raw-material ADTs / 25-ton truck-equivalent ADTs" });
-  band(s, 8.55, 1.32, 3.95, 4.85, C.dark, C.dark);
-  s.addText("The point", { x: 8.92, y: 1.68, w: 1.6, h: 0.3, fontSize: 15.2, bold: true, color: C.white, margin: 0 });
-  s.addText("The 1994 inbound baseline was about 54 ADTs.", { x: 8.95, y: 2.35, w: 2.95, h: 0.46, fontSize: 13.5, bold: true, color: "F4EEE4", margin: 0, fit: "shrink" });
-  s.addText("Wyoming limestone alone is about 498 ADTs in 2024-25, before shale and other materials.", { x: 8.95, y: 3.25, w: 2.95, h: 0.7, fontSize: 13.8, bold: true, color: C.gold, margin: 0, fit: "shrink" });
-  stat(s, "9.2x", "2024-25 Wyoming alone vs 1994 inbound", 8.95, 4.55, 2.9, C.gold, 32);
-  s.addText("*2025-26 PT0658 report is marked under review.", { x: 8.96, y: 5.63, w: 2.75, h: 0.17, fontSize: 7.8, color: "DCE5E1", margin: 0 });
-  addFooter(s, "Sources: CEMEX Historical Data.xlsx, Data Dec18 row 7; PT0658 annual reports; PT0658_Wyoming_Traffic_Calculations.csv. Wyoming conversion uses 25-ton trucks, two movements, 3 PCE factor, 250 workdays.");
+  header(s, "The Traffic Spectrum");
+  title(s, "The key years show the arc from 1994 to 2026.");
+  spectrumChart(s, [
+    { label: "1994\nbaseline", value: 54, valueText: "54", color: C.gray },
+    { label: "2019-22\navg", value: 306, valueText: "306", color: C.teal },
+    { label: "2023", value: 452, valueText: "452", color: C.rust },
+    { label: "2024-25\nWyoming", value: 498, valueText: "498", color: C.rust },
+    { label: "2025-26*\nWyoming", value: 625, valueText: "625", color: C.red },
+  ], 0.72, 1.28, 5.75, 4.75, 650, { caption: "Inbound raw-material ADTs", baseline: 54, baselineLabel: "1994 inbound baseline" });
+  spectrumChart(s, [
+    { label: "1994\ntotal", value: 456, valueText: "456", color: C.gray },
+    { label: "2019-22\navg", value: 641, valueText: "641", color: C.teal },
+    { label: "2023\ncalc.", value: 729, valueText: "729", color: C.rust },
+    { label: "June\n2023", value: 1283, valueText: "1,283", color: C.red },
+    { label: "2025-26*\ninbound floor", value: 625, valueText: "625", color: C.red, noLine: true },
+  ], 6.85, 1.28, 5.75, 4.75, 1300, { caption: "Total ADTs, plus 2026 inbound-only floor", baseline: 456, baselineLabel: "1994 total baseline" });
+  s.addText("The right-hand 2026 point is not total traffic. It is Wyoming limestone alone. Even that inbound-only floor exceeds the entire 1994 plant baseline.", {
+    x: 1.05, y: 6.18, w: 10.95, h: 0.34, fontSize: 12.2, bold: true, color: C.ink, align: "center", margin: 0, fit: "shrink",
+  });
+  addFooter(s, "Sources: CEMEX Historical Data.xlsx, Data Dec18 rows 3, 5, 6, 7; PT0658 annual reports; PT0658_Wyoming_Traffic_Calculations.csv. *2025-26 report is marked under review.");
 }
 
 // 5
 {
   const s = pptx.addSlide();
-  header(s, "Corroboration");
-  title(s, "Even the total-traffic comparison beats CEMEX.");
-  barChart(s, [
-    { label: "1994 baseline", value: 456, valueText: "456", color: C.gray },
-    { label: "2019-22 avg", value: 641, valueText: "641", color: C.teal },
-    { label: "2023 calc.", value: 729, valueText: "729", color: C.rust },
-    { label: "June 2023", value: 1283, valueText: "1,283", color: C.red },
-  ], 0.78, 1.28, 6.65, 4.9, 1300, { caption: "Total CEMEX ADTs, normalized to passenger-car equivalents" });
-  band(s, 7.92, 1.28, 4.55, 4.9, C.white);
-  s.addText("Why this matters", { x: 8.28, y: 1.65, w: 3.0, h: 0.3, fontSize: 15, bold: true, color: C.ink, margin: 0 });
-  bullets(s, [
-    "The rescission premise was that 1994 traffic was not exceeded.",
-    "The corrected workbook shows 2023 total ADTs about 60% above 1994.",
-    "The County's April 2024 Stantec-cited spike shows the new trucked-feedstock operation in action.",
-    "The raw-material evidence is stronger, but total traffic corroborates it.",
-  ], 8.36, 2.18, 3.45, 1.9, { size: 11.1, space: 2.5 });
-  callout(s, "CEMEX does not win even on the comparison Dale Case chose.", 8.34, 4.93, 3.45, 0.58, C.red, C.pale, 12.4);
-  addFooter(s, "Sources: CEMEX Historical Data.xlsx, Data Dec18 rows 3, 5, 6 and data table; April 10, 2024 Notice citing Stantec June 2023.");
+  header(s, "The Decisive Numbers");
+  title(s, "One comparison wins the case.");
+  band(s, 0.75, 1.32, 3.6, 4.35, C.white);
+  band(s, 4.85, 1.32, 3.6, 4.35, C.dark, C.dark);
+  band(s, 8.95, 1.32, 3.6, 4.35, C.white);
+  stat(s, "54", "1994 inbound raw-material ADTs", 1.08, 2.05, 2.95, C.gray, 42);
+  stat(s, "625", "2025-26 Wyoming limestone ADTs*", 5.18, 2.05, 2.95, C.gold, 42, "DCE5E1");
+  stat(s, "456", "entire 1994 plant total ADTs", 9.28, 2.05, 2.95, C.gray, 42);
+  s.addText("Wyoming limestone alone is about 11.6x the 1994 inbound baseline.", { x: 1.08, y: 4.15, w: 2.7, h: 0.48, fontSize: 12.8, bold: true, color: C.ink, align: "center", margin: 0, fit: "shrink" });
+  s.addText("That number is before shale, finished product, employees, vendors, or any other plant traffic.", { x: 5.2, y: 4.05, w: 2.75, h: 0.62, fontSize: 12.8, bold: true, color: "F4EEE4", align: "center", margin: 0, fit: "shrink" });
+  s.addText("The inbound-only 2026 floor is already higher than the 1994 total plant baseline.", { x: 9.24, y: 4.08, w: 2.8, h: 0.55, fontSize: 12.8, bold: true, color: C.ink, align: "center", margin: 0, fit: "shrink" });
+  callout(s, "Dale Case's no-increase premise cannot survive the 2026 PT0658 math.", 1.05, 6.08, 11.0, 0.52, C.red, C.pale, 13.2);
+  addFooter(s, "Sources: CEMEX Historical Data.xlsx, Data Dec18 row 3; PT0658 annual reports; PT0658_Wyoming_Traffic_Calculations.csv. *2025-26 report is marked under review.");
 }
 
 // 6
