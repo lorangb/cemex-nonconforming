@@ -30,7 +30,7 @@ of an appeal to the Boulder County **Board of Adjustment**.
 | `08_Operational_History_and_Traffic` | Operational-baseline and traffic record, incl. GNL's 2024 amicus brief and CEMEX's responses. |
 | `09_Correspondence` | DRMS, zoning, and County correspondence. |
 | `11_Reference_and_Research` | Cement kiln dust, emissions/health, comparison plants, CEMEX corporate, historical, and SOSVV materials. |
-| `12_Presentations` | GNoL decks and public-meeting materials. |
+| `12_Presentations` | The public legal-brief decks (PPTX/PDF), the rescission-appeal video and audio, and supporting graphics. |
 | `Images` | Photographs and drone imagery. |
 | `Z_Related_Other_CEMEX_Mines` | DRMS files for other CEMEX/related mines (Larimer M-1977-341, Wyoming PT0658, Arcosa M-1988-108), included as comparative context and sorted last. |
 

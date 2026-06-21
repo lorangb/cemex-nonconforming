@@ -1,6 +1,6 @@
 # Document Index
 
-612 documents. See `INDEX.csv` for the sortable version.
+617 documents. See `INDEX.csv` for the sortable version.
 
 ## 01_Case_Overview_and_GNoL_Position
 
@@ -471,9 +471,14 @@
 
 | Date | Document | Subfolder | Type | Facility/Case |
 |---|---|---|---|---|
+|  | Analysis_of_Plant_Traffic_Appeal.png |  | Image |  |
 |  | CEMEX_Lyons_Nonconforming_Use_Legal_Brief_Public.pdf |  | Document |  |
 |  | CEMEX_Lyons_Nonconforming_Use_Legal_Brief_Public.pptx |  | Presentation |  |
+|  | CEMEX_Lyons_Reverse_Rescission_Traffic_Brief.pdf |  | Document |  |
 |  | CEMEX_Lyons_Reverse_Rescission_Traffic_Brief.pptx |  | Presentation |  |
+|  | CEMEX_Rescission_Appeal.mp4 |  | Video |  |
+|  | CEMEX_Rescission_Appeal.pdf |  | Document |  |
+|  | The_Fight_to_Close_CEMEX_Lyons.m4a |  | Audio |  |
 
 ## Images
 
