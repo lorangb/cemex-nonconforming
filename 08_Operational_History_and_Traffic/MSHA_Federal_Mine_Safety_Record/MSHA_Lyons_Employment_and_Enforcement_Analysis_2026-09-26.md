@@ -10,9 +10,9 @@
   - It is well above the 2016–2020 level of about 93–99.
   - The plant/mill crew grew from about 77–82 (2016–2020) to 104–107 (2025 Q3–2026 Q2).
   - 2025 had the most hours worked of any year in the data, which goes back to 2000: 252,309 hours.
-- **Any workforce reduction announced after June 2026 cannot appear in this data yet.** Layoff notices dated Sep 22, 2026 are reported in other research notes (see `13_2026_Plant_Status_and_Layoffs/`; not independently verified). Reporting schedule:
+- **Any workforce reduction announced after June 2026 cannot appear in this data yet.** A CEMEX letter to employees dated Sep 22, 2026 says layoffs are expected to commence Nov 21, 2026 (see `13_2026_Plant_Status_and_Layoffs/`). Reporting schedule:
   - Q3 2026 (Jul–Sep) is due from CEMEX by Oct 15, 2026 and covers a period before any such separations.
-  - Q4 2026 is due Jan 15, 2027. Separations reported to begin Nov 21 would affect about 6 of the quarter's 13 weeks, and the figure is a quarterly average.
+  - Q4 2026 is due Jan 15, 2027. Layoffs expected to commence Nov 21 would affect about 6 of the quarter's 13 weeks, and the figure is a quarterly average.
   - Q1 2027 is due Apr 15, 2027, and would be the first full-quarter figure.
   - The record therefore gives a baseline (about 113 people, about 104 of them in the plant) but nothing about the size of any reduction.
 - **Thin-crew check:** a kiln that keeps running on fewer people would be expected to show fewer employees and more hours per employee (overtime). Hours per employee have run about 500–585 per quarter (roughly 38–45 hours a week) since mid-2022, with no spike. The operator's Mines-file profile says 7 days a week, 12-hour shifts, 2 production shifts plus 1 maintenance shift per day, and "89 employees." The date of that self-reported profile is unknown and it disagrees with the quarterly reports.
