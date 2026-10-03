@@ -5,3 +5,7 @@ the nonconforming use and to truck traffic):
 - **1994_Operational_Baseline/** — records establishing the plant's operational state c.1994.
 - **CDPHE_Air_Inspection_Reports/** — the CDPHE inspection history.
 - **GNL_Submissions_to_County/**, **CEMEX_Responses/**, **Historical_Data/**.
+- **MSHA_Federal_Mine_Safety_Record/** — federal MSHA inspection, violation, penalty, accident and
+  employment data for the Lyons Cement Plant (mine 0500344), 2015–2026, with an analysis memo.
+- **Front_Range_Cement_Terminals/** — notes on CEMEX and Mountain Cement (Eagle Materials) cement
+  terminals serving Colorado, including the Bennett/Denver terminal.

@@ -258,6 +258,7 @@ Dates ending in `-00` mean only the month or year is known. Verify against the d
 | 2006-09-27 | 2006-09-27_REPORT - M1977341.pdf | Z_Related_Other_CEMEX_Mines | M-1977-341 (Larimer) |
 | 2006-10-17 | Boulder County Letter Land Use Letter - 2006-10-17.pdf | 02_Nonconforming_Use_Evidence |  |
 | 2006-11-21 | 2006-11-21_REPORT - M1977341.pdf | Z_Related_Other_CEMEX_Mines | M-1977-341 (Larimer) |
+| 2007-00-00 | CDPHE_2007_Inspection_p61_P050_startup_14450_tons_OnBase-11262734.png | 05_Air_Quality_Permit_95OPBO082 | 95OPBO082 (air permit) |
 | 2007-01-23 | 2007-01-23_GENERAL DOCUMENTS - M1977341.pdf | Z_Related_Other_CEMEX_Mines | M-1977-341 (Larimer) |
 | 2007-02-09 | 2007-02-09_GENERAL DOCUMENTS - M1977341.pdf | Z_Related_Other_CEMEX_Mines | M-1977-341 (Larimer) |
 | 2007-02-28 | 2007_PT0658_AR_2007FEB28.pdf | Z_Related_Other_CEMEX_Mines | PT0658 (Wyoming) |
@@ -279,6 +280,7 @@ Dates ending in `-00` mean only the month or year is known. Verify against the d
 | 2009-03-03 | 2009_PT0658_AR_2009MAR03.pdf | Z_Related_Other_CEMEX_Mines | PT0658 (Wyoming) |
 | 2010-02-18 | 2010_PT0658_AR_2010FEB18.pdf | Z_Related_Other_CEMEX_Mines | PT0658 (Wyoming) |
 | 2011-02-16 | 2011_PT0658_AR_2011FEB16.pdf | Z_Related_Other_CEMEX_Mines | PT0658 (Wyoming) |
+| 2012-00-00 | CDPHE_2012_Inspection_p89_P050_0_tons_OnBase-32744303.png | 05_Air_Quality_Permit_95OPBO082 | 95OPBO082 (air permit) |
 | 2012-03-06 | 2012_PT0658_AR_2012MAR06.pdf | Z_Related_Other_CEMEX_Mines | PT0658 (Wyoming) |
 | 2013-00-00 | CEMEX-Construction-Materials-South-Revised-Technical-Review-Doc-Apr-2013.pdf | 05_Air_Quality_Permit_95OPBO082 | 95OPBO082 (air permit) |
 | 2013-00-00 | 2013 - CEMEX Lyons - Consent Decree with EPA.pdf | 07_EPA_Clean_Air_Act_Case |  |
@@ -289,17 +291,22 @@ Dates ending in `-00` mean only the month or year is known. Verify against the d
 | 2015-07-02 | 2015-07-02_REVISION - M1977208.pdf | 03_State_Mining_Permit_M1977208 | M-1977-208 (Lyons mine) |
 | 2015-10-01 | Hazardous Locate   10-01-2015.pdf | 02_Nonconforming_Use_Evidence |  |
 | 2016-00-00 | 2016 - Review of Dowe Flats - PC Staff Recommendation (1).pdf | 08_Operational_History_and_Traffic |  |
+| 2017-00-00 | APEN_2017_p3_data_year_2016_0_tons_OnBase-5214985.png | 05_Air_Quality_Permit_95OPBO082 | 95OPBO082 (air permit) |
 | 2017-00-00 | CEMEX-Construction-Materials-South-Revised-Technical-Review-Doc-Feb-2017.pdf | 05_Air_Quality_Permit_95OPBO082 | 95OPBO082 (air permit) |
 | 2017-00-00 | cement-kiln-dust-2017.pdf | 11_Reference_and_Research |  |
 | 2017-11-17 | CEMEX Construction Materials South, LLC - Lyons Cement Plant_  Revised Permit (11_17_17) - 95OPBO082 renew2 p01.pdf | 05_Air_Quality_Permit_95OPBO082 | 95OPBO082 (air permit) |
+| 2018-00-00 | CDPHE_2018_Inspection_p204_P050_0_tons_OnBase-4215138.png | 05_Air_Quality_Permit_95OPBO082 | 95OPBO082 (air permit) |
 | 2019-00-00 | Colorado Mineral Activites 2019-2020.pdf | 11_Reference_and_Research |  |
 | 2019-07-15 | MINERAL RULES AND REGULATIONS FOR THE EXTRACTION OF CONSTRUCTION MATERIALS 7-15-19.pdf | 09_Correspondence |  |
 | 2020-00-00 | Dowe Flats Covenant Termination 2020-Feb.pdf | 04_Dowe_Flats_M1993041 | M-1993-041 (Dowe Flats) |
+| 2020-00-00 | CDPHE_2020_Inspection_p197_P050_0_tons_OnBase-9456612.png | 05_Air_Quality_Permit_95OPBO082 | 95OPBO082 (air permit) |
 | 2020-02-07 | 2020-02-07_REVISION - M1993041.pdf | 04_Dowe_Flats_M1993041 | M-1993-041 (Dowe Flats) |
 | 2020-02-28 | 2020-02-28_REVISION - M1988108.pdf | Z_Related_Other_CEMEX_Mines | M-1988-108 (Arcosa) |
 | 2020-06-05 | 2020-06-05_INSPECTION - M1993041.pdf | 04_Dowe_Flats_M1993041 | M-1993-041 (Dowe Flats) |
 | 2020-09-11 | Reclamation Costs - 2020-09-11_PERMIT FILE - M1993041.pdf | 04_Dowe_Flats_M1993041 | M-1993-041 (Dowe Flats) |
+| 2021-00-00 | CDPHE_2021_Inspection_p210_P050_0_tons_OnBase-13225567.png | 05_Air_Quality_Permit_95OPBO082 | 95OPBO082 (air permit) |
 | 2021-00-00 | PT658 2021-2022 Annual Report.pdf | Z_Related_Other_CEMEX_Mines | PT0658 (Wyoming) |
+| 2022-00-00 | CDPHE_2022_Inspection_p258_P050_0_tons_OnBase-24063904.png | 05_Air_Quality_Permit_95OPBO082 | 95OPBO082 (air permit) |
 | 2022-00-00 | resolution 2022-075 CEMEX Dowe Flats Mining and Reclamation Extension (SU-22-0003).pdf | 06_Boulder_County_Land_Use | SU-22-0003 |
 | 2022-03-03 | M1977-208_Inspection-Report_wEncls_2022-03-03_Red-Size (1) (1).pdf | 03_State_Mining_Permit_M1977208 | M-1977-208 (Lyons mine) |
 | 2022-03-29 | Boulder County Land Use Code Article 4, updated March 29, 2022.pdf | 06_Boulder_County_Land_Use |  |
@@ -322,6 +329,8 @@ Dates ending in `-00` mean only the month or year is known. Verify against the d
 | 2022-09-07 | Martin Marietta Brief 9.7.2022.pdf | 02_Nonconforming_Use_Evidence |  |
 | 2022-09-07 | Staff Reccommendation Packet 9.7.2022.pdf | 02_Nonconforming_Use_Evidence |  |
 | 2022-09-07 | CKD from Dowe Flats + CEMEX Lyons- The More You Know - 9.7.2022 [DRAFT].pptx | 04_Dowe_Flats_M1993041 | M-1993-041 (Dowe Flats) |
+| 2023-00-00 | CDPHE_2023_Inspection_p222_P050_0_tons_OnBase-43852696.png | 05_Air_Quality_Permit_95OPBO082 | 95OPBO082 (air permit) |
+| 2023-00-00 | CDPHE_2023_Inspection_p223_P050_not_operating_OnBase-43852696.png | 05_Air_Quality_Permit_95OPBO082 | 95OPBO082 (air permit) |
 | 2023-00-00 | Original Traffic Study - CEMEX Lyons Access TIS - Final_09.01.2023 (1).pdf | 08_Operational_History_and_Traffic |  |
 | 2023-00-00 | CEMEX Plant Upgrade Research 08.2023 - Google Docs.pdf | 08_Operational_History_and_Traffic |  |
 | 2023-00-00 | CEMEX Plant Upgrade Research 08.2023 - Google Docs.pdf | 09_Correspondence |  |
@@ -332,6 +341,9 @@ Dates ending in `-00` mean only the month or year is known. Verify against the d
 | 2023-09-00 | Visual Evidence of New Structures - CEMEX Lyons - September 2023 (1).pdf | 02_Nonconforming_Use_Evidence |  |
 | 2023-10-00 | Response to BOCO Oct 2023 letter.pdf | 02_Nonconforming_Use_Evidence |  |
 | 2023-10-00 | Response to BOCO Oct 2023 letter.pdf | 08_Operational_History_and_Traffic |  |
+| 2023-11-16 | APEN_2023-11-16_p2_data_year_2022_OnBase-20327930.png | 05_Air_Quality_Permit_95OPBO082 | 95OPBO082 (air permit) |
+| 2023-11-16 | APEN_2023-11-16_p3_data_year_2022_OnBase-20327930.png | 05_Air_Quality_Permit_95OPBO082 | 95OPBO082 (air permit) |
+| 2023-11-16 | APEN_2023-11-16_p5_data_year_2022_OnBase-20327930.png | 05_Air_Quality_Permit_95OPBO082 | 95OPBO082 (air permit) |
 | 2024-00-00 | 2024.07.09 - GNL Letter to D. Case re ZON-23-0003.pdf | 08_Operational_History_and_Traffic | ZON-23-0003 |
 | 2024-00-00 | 2024.12.20 - SOSVV & GNL Letter re ZON-23-0003.pdf | 08_Operational_History_and_Traffic | ZON-23-0003 |
 | 2024-00-00 | CEMEX - Lyons Letter May 9th 2024.pdf | 08_Operational_History_and_Traffic |  |
@@ -346,3 +358,20 @@ Dates ending in `-00` mean only the month or year is known. Verify against the d
 | 2025-00-00 | CEMEX airphoto study report 2025.pdf | 08_Operational_History_and_Traffic |  |
 | 2026-01-09 | 2025_PT0658_AR_2026JAN09.pdf | Z_Related_Other_CEMEX_Mines | PT0658 (Wyoming) |
 | 2026-03-02 | 2026_PT0658_AR_2026MAR02_Under Review.pdf | Z_Related_Other_CEMEX_Mines | PT0658 (Wyoming) |
+| 2026-04-27 | APEN_2026-04-27_p2_data_year_2025_OnBase-63749814.png | 05_Air_Quality_Permit_95OPBO082 | 95OPBO082 (air permit) |
+| 2026-04-27 | APEN_2026-04-27_p3_data_year_2025_OnBase-63749814.png | 05_Air_Quality_Permit_95OPBO082 | 95OPBO082 (air permit) |
+| 2026-04-27 | APEN_2026-04-27_p5_data_year_2025_OnBase-63749814.png | 05_Air_Quality_Permit_95OPBO082 | 95OPBO082 (air permit) |
+| 2026-09-00 | 2026-09_to_2026-10_Plant_Status_Timeline.md | 13_2026_Plant_Status_and_Layoffs | M-1977-208 (Lyons mine) |
+| 2026-09-25 | Public_Records_Monitoring_Log_2026-09-25_to_2026-10-01.md | 13_2026_Plant_Status_and_Layoffs | M-1977-208 (Lyons mine) |
+| 2026-09-26 | P050_Rail_Unloader_Throughput_Analysis_2026-09-26.md | 05_Air_Quality_Permit_95OPBO082 | 95OPBO082 (air permit) |
+| 2026-09-26 | Bennett_Denver_Terminal_Origin_2026-09-26.md | 08_Operational_History_and_Traffic | AIRS 001-2353 (Bennett terminal) |
+| 2026-09-26 | Eagle_Mountain_Cement_Colorado_Terminal_Timing_2026-09-26.md | 08_Operational_History_and_Traffic | AIRS 031-0178 (Mountain Cement Denver) |
+| 2026-09-26 | Front_Range_Cement_Terminals_2026-09-26.md | 08_Operational_History_and_Traffic | Colorado cement terminals |
+| 2026-09-26 | MSHA_Lyons_Employment_and_Enforcement_Analysis_2026-09-26.md | 08_Operational_History_and_Traffic | MSHA 0500344 (Lyons plant) |
+| 2026-09-26 | Lyons_Penalties_vs_US_Portfolio_2020-2026.csv | 11_Reference_and_Research | 013-0003 (Lyons plant) |
+| 2026-09-26 | Lyons_Penalties_vs_US_Portfolio_2020-2026.md | 11_Reference_and_Research | 013-0003 (Lyons plant) |
+| 2026-09-30 | Arcosa_Boulder_Shale_to_Lyons_Analysis_2026-09-30.md | Z_Related_Other_CEMEX_Mines | M-1988-108 (Arcosa) |
+| 2026-09-30 | Larimer_Quarry_Tonnage_Analysis_2026-09-30.csv | Z_Related_Other_CEMEX_Mines | M-1977-341 (Larimer) |
+| 2026-09-30 | Larimer_Quarry_Tonnage_Analysis_2026-09-30.md | Z_Related_Other_CEMEX_Mines | M-1977-341 (Larimer) |
+| 2026-09-30 | Lyons_Raw_Material_Sourcing_Weaver_Limestone_and_Shale_2026-09-30.md | Z_Related_Other_CEMEX_Mines | PT0658 (Wyoming) |
+| 2026-09-30 | Lyons_Shale_Haul_Cost_Sensitivity_ESTIMATE_2026-09-30.csv | Z_Related_Other_CEMEX_Mines | PT0658 (Wyoming) |

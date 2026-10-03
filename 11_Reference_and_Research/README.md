@@ -15,3 +15,6 @@ non-compliance claims.
   cement manufacturing.
 
 > General cement-industry **decarbonization** research was set aside under `_Not_Relevant/`.
+
+- **Comparison_Plants/Penalties_vs_US_Cement_Portfolio/** — Lyons fines and penalties compared with
+  CEMEX's other US cement plants, 2020–2026 (analysis; revenue figures are estimates).

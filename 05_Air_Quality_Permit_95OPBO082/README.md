@@ -4,3 +4,6 @@
 **Emissions_Data/**. Note: a curated subset of these inspection reports also appears in
 `08_Operational_History_and_Traffic` where GNL used them to establish the plant's
 operational state over time.
+
+**P050_Rail_Unloader_Analysis/** — analysis (2026-09-26) of the P050 rail cement unloader's reported
+throughput from CDPHE inspection reports and APENs, with page extracts of the cited records.

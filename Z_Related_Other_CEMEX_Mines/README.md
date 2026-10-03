@@ -6,3 +6,8 @@ don't crowd the Lyons case.
   general documents), 1977–2008.
 - **Wyoming_Mine_PT0658/** — annual reports.
 - **Arcosa_M1988108/** — annual report records.
+
+Analysis notes added 2026-09/10 (derived from the public records in these folders and from MSHA/CDPHE
+data; inferences are labeled): `Larimer_Quarry_Tonnage_Analysis_2026-09-30` (Larimer),
+`Lyons_Raw_Material_Sourcing_Weaver_Limestone_and_Shale_2026-09-30` (Wyoming), and
+`Arcosa_Boulder_Shale_to_Lyons_Analysis_2026-09-30` (Arcosa).

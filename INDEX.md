@@ -1,6 +1,6 @@
 # Document Index
 
-615 documents. See `INDEX.csv` for the sortable version.
+653 documents. See `INDEX.csv` for the sortable version.
 
 ## 02_Nonconforming_Use_Evidence
 
@@ -262,6 +262,23 @@
 |  | GHG Permitting Guidance - EPA.pdf | Inspection_and_Stack_Test_Reports | Permit | 95OPBO082 (air permit) |
 |  | RHP PO CEMEX LYONS__7_12_2018.pdf | Inspection_and_Stack_Test_Reports | Document | 95OPBO082 (air permit) |
 |  | view.html | Inspection_and_Stack_Test_Reports | Web page | 95OPBO082 (air permit) |
+| 2026-09-26 | P050_Rail_Unloader_Throughput_Analysis_2026-09-26.md | P050_Rail_Unloader_Analysis | Analysis | 95OPBO082 (air permit) |
+| 2017-00-00 | APEN_2017_p3_data_year_2016_0_tons_OnBase-5214985.png | P050_Rail_Unloader_Analysis/Source_Page_Extracts | Image | 95OPBO082 (air permit) |
+| 2023-11-16 | APEN_2023-11-16_p2_data_year_2022_OnBase-20327930.png | P050_Rail_Unloader_Analysis/Source_Page_Extracts | Image | 95OPBO082 (air permit) |
+| 2023-11-16 | APEN_2023-11-16_p3_data_year_2022_OnBase-20327930.png | P050_Rail_Unloader_Analysis/Source_Page_Extracts | Image | 95OPBO082 (air permit) |
+| 2023-11-16 | APEN_2023-11-16_p5_data_year_2022_OnBase-20327930.png | P050_Rail_Unloader_Analysis/Source_Page_Extracts | Image | 95OPBO082 (air permit) |
+| 2026-04-27 | APEN_2026-04-27_p2_data_year_2025_OnBase-63749814.png | P050_Rail_Unloader_Analysis/Source_Page_Extracts | Image | 95OPBO082 (air permit) |
+| 2026-04-27 | APEN_2026-04-27_p3_data_year_2025_OnBase-63749814.png | P050_Rail_Unloader_Analysis/Source_Page_Extracts | Image | 95OPBO082 (air permit) |
+| 2026-04-27 | APEN_2026-04-27_p5_data_year_2025_OnBase-63749814.png | P050_Rail_Unloader_Analysis/Source_Page_Extracts | Image | 95OPBO082 (air permit) |
+| 2007-00-00 | CDPHE_2007_Inspection_p61_P050_startup_14450_tons_OnBase-11262734.png | P050_Rail_Unloader_Analysis/Source_Page_Extracts | Image | 95OPBO082 (air permit) |
+| 2012-00-00 | CDPHE_2012_Inspection_p89_P050_0_tons_OnBase-32744303.png | P050_Rail_Unloader_Analysis/Source_Page_Extracts | Image | 95OPBO082 (air permit) |
+| 2018-00-00 | CDPHE_2018_Inspection_p204_P050_0_tons_OnBase-4215138.png | P050_Rail_Unloader_Analysis/Source_Page_Extracts | Image | 95OPBO082 (air permit) |
+| 2020-00-00 | CDPHE_2020_Inspection_p197_P050_0_tons_OnBase-9456612.png | P050_Rail_Unloader_Analysis/Source_Page_Extracts | Image | 95OPBO082 (air permit) |
+| 2021-00-00 | CDPHE_2021_Inspection_p210_P050_0_tons_OnBase-13225567.png | P050_Rail_Unloader_Analysis/Source_Page_Extracts | Image | 95OPBO082 (air permit) |
+| 2022-00-00 | CDPHE_2022_Inspection_p258_P050_0_tons_OnBase-24063904.png | P050_Rail_Unloader_Analysis/Source_Page_Extracts | Image | 95OPBO082 (air permit) |
+| 2023-00-00 | CDPHE_2023_Inspection_p222_P050_0_tons_OnBase-43852696.png | P050_Rail_Unloader_Analysis/Source_Page_Extracts | Image | 95OPBO082 (air permit) |
+| 2023-00-00 | CDPHE_2023_Inspection_p223_P050_not_operating_OnBase-43852696.png | P050_Rail_Unloader_Analysis/Source_Page_Extracts | Image | 95OPBO082 (air permit) |
+|  | Title_V_Semiannual_Report_2026H1_p5_P050_startup_deviation_OnBase-66366349.png | P050_Rail_Unloader_Analysis/Source_Page_Extracts | Image | 95OPBO082 (air permit) |
 | 2009-00-00 | CEMEX-Construction-Materials-South-Addendum-Revised-Technical-Review-Doc-July-2009.pdf | Permits_and_Technical_Reviews | Document | 95OPBO082 (air permit) |
 | 2008-00-00 | CEMEX-Construction-Materials-South-Revised-Technical-Review-DOC-Mar-2008.pdf | Permits_and_Technical_Reviews | Document | 95OPBO082 (air permit) |
 | 2013-00-00 | CEMEX-Construction-Materials-South-Revised-Technical-Review-Doc-Apr-2013.pdf | Permits_and_Technical_Reviews | Document | 95OPBO082 (air permit) |
@@ -417,12 +434,23 @@
 | 2023-03-24 | CX Letter to BOCO 3.24.23.pdf | CEMEX_Responses | Letter |  |
 |  | Ex. D - Landis Report Final signed.pdf | CEMEX_Responses | Report |  |
 | 2023-10-00 | Response to BOCO Oct 2023 letter.pdf | CEMEX_Responses | Letter |  |
+| 2026-09-26 | Bennett_Denver_Terminal_Origin_2026-09-26.md | Front_Range_Cement_Terminals | Analysis | AIRS 001-2353 (Bennett terminal) |
+| 2026-09-26 | Eagle_Mountain_Cement_Colorado_Terminal_Timing_2026-09-26.md | Front_Range_Cement_Terminals | Analysis | AIRS 031-0178 (Mountain Cement Denver) |
+| 2026-09-26 | Front_Range_Cement_Terminals_2026-09-26.md | Front_Range_Cement_Terminals | Analysis | Colorado cement terminals |
 | 2023-00-00 | CEMEX Plant Upgrade Research 08.2023 - Google Docs.pdf | GNL_Submissions_to_County | Document |  |
 | 1997-00-00 | The 1997-2000 Lyons Plant Expansion Project w Links Working.pdf | GNL_Submissions_to_County | Document |  |
 |  | sarahlorang_e_mail_4_11_23.pdf | GNL_Submissions_to_County | Document |  |
 |  | CEMEX Historical Data.xlsx | Historical_Data | Spreadsheet |  |
 |  | MJC CEMEX.xlsx | Historical_Data | Spreadsheet |  |
 |  | PT0658_Wyoming_Traffic_Calculations.csv | Historical_Data | Data | PT0658 (Wyoming) |
+|  | MSHA_0500344_accident_records_2015-2026_narratives_omitted_for_injuries.csv | MSHA_Federal_Mine_Safety_Record | Data | MSHA 0500344 (Lyons plant) |
+|  | MSHA_0500344_assessed_penalties_2015-2026.csv | MSHA_Federal_Mine_Safety_Record | Data | MSHA 0500344 (Lyons plant) |
+|  | MSHA_0500344_enforcement_summary_by_year_2015-2026.csv | MSHA_Federal_Mine_Safety_Record | Data | MSHA 0500344 (Lyons plant) |
+|  | MSHA_0500344_inspections_2015-2026.csv | MSHA_Federal_Mine_Safety_Record | Data | MSHA 0500344 (Lyons plant) |
+|  | MSHA_0500344_quarterly_employment_2000-2026Q2.csv | MSHA_Federal_Mine_Safety_Record | Data | MSHA 0500344 (Lyons plant) |
+|  | MSHA_0500344_quarterly_employment_chart.png | MSHA_Federal_Mine_Safety_Record | Image | MSHA 0500344 (Lyons plant) |
+|  | MSHA_0500344_violations_2015-2026.csv | MSHA_Federal_Mine_Safety_Record | Data | MSHA 0500344 (Lyons plant) |
+| 2026-09-26 | MSHA_Lyons_Employment_and_Enforcement_Analysis_2026-09-26.md | MSHA_Federal_Mine_Safety_Record | Analysis | MSHA 0500344 (Lyons plant) |
 
 ## 09_Correspondence
 
@@ -454,6 +482,8 @@
 |  | Fact Check - Alabama Cement Plant That Trucks In Limestone from 470 Miles Away.pdf | Comparison_Plants | Document |  |
 |  | Holcim Theodore Plant Crystal River Limestone Fact Sheet.pdf | Comparison_Plants | Document |  |
 |  | Impact of Distance of Quarries to Demand - Spain.pdf | Comparison_Plants | Document |  |
+| 2026-09-26 | Lyons_Penalties_vs_US_Portfolio_2020-2026.csv | Comparison_Plants/Penalties_vs_US_Cement_Portfolio | Data | 013-0003 (Lyons plant) |
+| 2026-09-26 | Lyons_Penalties_vs_US_Portfolio_2020-2026.md | Comparison_Plants/Penalties_vs_US_Cement_Portfolio | Analysis | 013-0003 (Lyons plant) |
 |  | declaration-cargill.pdf | Emissions_and_Health | Document |  |
 |  | ej_eip_kilns_web.pdf | Emissions_and_Health | Document |  |
 |  | Colorado Geological Survey SP-05AB.pdf | Historical | Document |  |
@@ -472,6 +502,13 @@
 |  | CEMEX_Rescission_Appeal.mp4 |  | Video |  |
 |  | CEMEX_Rescission_Appeal.pdf |  | Document |  |
 |  | The_Fight_to_Close_CEMEX_Lyons.m4a |  | Audio |  |
+
+## 13_2026_Plant_Status_and_Layoffs
+
+| Date | Document | Subfolder | Type | Facility/Case |
+|---|---|---|---|---|
+| 2026-09-00 | 2026-09_to_2026-10_Plant_Status_Timeline.md |  | Timeline | M-1977-208 (Lyons mine) |
+| 2026-09-25 | Public_Records_Monitoring_Log_2026-09-25_to_2026-10-01.md | Public_Records_Monitoring_Log | Log | M-1977-208 (Lyons mine) |
 
 ## Images
 
@@ -496,8 +533,12 @@
 | Date | Document | Subfolder | Type | Facility/Case |
 |---|---|---|---|---|
 | 2020-02-28 | 2020-02-28_REVISION - M1988108.pdf | Arcosa_M1988108 | Revision | M-1988-108 (Arcosa) |
+| 2026-09-30 | Arcosa_Boulder_Shale_to_Lyons_Analysis_2026-09-30.md | Arcosa_M1988108 | Analysis | M-1988-108 (Arcosa) |
 |  | M1988108_21 Nov 29_Annual Report Map (116).pdf | Arcosa_M1988108 | Report | M-1988-108 (Arcosa) |
+|  | MSHA_0504415_Arcosa_Boulder_quarterly_hours_employment.csv | Arcosa_M1988108 | Data | M-1988-108 (Arcosa) |
 |  | DRMS Larimer County.pdf | Larimer_Quarry_M1977341 | Document | M-1977-341 (Larimer) |
+| 2026-09-30 | Larimer_Quarry_Tonnage_Analysis_2026-09-30.csv | Larimer_Quarry_M1977341 | Data | M-1977-341 (Larimer) |
+| 2026-09-30 | Larimer_Quarry_Tonnage_Analysis_2026-09-30.md | Larimer_Quarry_M1977341 | Analysis | M-1977-341 (Larimer) |
 | 1977-11-10 | 1977-11-10_GENERAL DOCUMENTS - M1977341 (2).pdf | Larimer_Quarry_M1977341/General_Documents | Document | M-1977-341 (Larimer) |
 | 1977-11-10 | 1977-11-10_GENERAL DOCUMENTS - M1977341.pdf | Larimer_Quarry_M1977341/General_Documents | Document | M-1977-341 (Larimer) |
 | 1983-03-24 | 1983-03-24_GENERAL DOCUMENTS - M1977341.pdf | Larimer_Quarry_M1977341/General_Documents | Document | M-1977-341 (Larimer) |
@@ -672,6 +713,8 @@
 | 2024-02-29 | 2024_PT0658_AR_2024FEB29.pdf | Wyoming_Mine_PT0658 | Document | PT0658 (Wyoming) |
 | 2026-01-09 | 2025_PT0658_AR_2026JAN09.pdf | Wyoming_Mine_PT0658 | Document | PT0658 (Wyoming) |
 | 2026-03-02 | 2026_PT0658_AR_2026MAR02_Under Review.pdf | Wyoming_Mine_PT0658 | Document | PT0658 (Wyoming) |
+| 2026-09-30 | Lyons_Raw_Material_Sourcing_Weaver_Limestone_and_Shale_2026-09-30.md | Wyoming_Mine_PT0658 | Analysis | PT0658 (Wyoming) |
+| 2026-09-30 | Lyons_Shale_Haul_Cost_Sensitivity_ESTIMATE_2026-09-30.csv | Wyoming_Mine_PT0658 | Data | PT0658 (Wyoming) |
 | 2023-02-24 | PT0658_AR_2023FEB24.pdf | Wyoming_Mine_PT0658 | Document | PT0658 (Wyoming) |
 | 2021-00-00 | PT658 2021-2022 Annual Report.pdf | Wyoming_Mine_PT0658 | Report | PT0658 (Wyoming) |
 
