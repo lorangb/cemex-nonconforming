@@ -16,5 +16,6 @@ Public-record material on the status of the CEMEX Lyons cement plant after the S
 | Arcosa Boulder shale (supplier to Lyons) | `Z_Related_Other_CEMEX_Mines/Arcosa_M1988108/` |
 | Weaver (Wyoming) limestone and shale sourcing | `Z_Related_Other_CEMEX_Mines/Wyoming_Mine_PT0658/` |
 | Larimer County Quarry (M-1977-341) tonnage analysis | `Z_Related_Other_CEMEX_Mines/Larimer_Quarry_M1977341/` |
+| Fire district covering the plant (Hygiene FPD), fire codes, the 10/3/2025 coal-mill fire record, and Hygiene FPD minutes mentioning CEMEX | `14_Fire_Protection_and_Building_Safety/` |
 
 Ground rules are in `CONTRIBUTING.md`: primary sources, provenance, nothing private or personally identifying.

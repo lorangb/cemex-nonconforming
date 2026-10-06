@@ -27,9 +27,10 @@ of an appeal to the Boulder County **Board of Adjustment**.
 | `07_EPA_Clean_Air_Act_Case` | The federal Clean Air Act lawsuit against CEMEX: pleadings, expert reports, exhibits, 2013 consent decree. |
 | `08_Operational_History_and_Traffic` | Operational-baseline and traffic record, incl. GNL's 2024 amicus brief and CEMEX's responses, MSHA federal mine-safety data, and Front Range cement-terminal notes. |
 | `09_Correspondence` | DRMS, zoning, and County correspondence. |
-| `11_Reference_and_Research` | Cement kiln dust, emissions/health, comparison plants (incl. a Lyons-vs-CEMEX-portfolio penalties comparison), CEMEX corporate, historical, and SOSVV materials. |
+| `11_Reference_and_Research` | Cement kiln dust, emissions/health, comparison plants (incl. a Lyons-vs-CEMEX-portfolio penalties comparison), CEMEX corporate, historical, and SOSVV materials, and public court opinions on unsafe-building and demolition orders (`Legal_Reference_Unsafe_Structures/`). |
 | `12_Presentations` | The public legal-brief decks (PPTX/PDF), the rescission-appeal video and audio, and supporting graphics. |
 | `13_2026_Plant_Status_and_Layoffs` | Sept–Oct 2026 plant-status timeline (each line sourced and labeled documented / reported) and a log of public-records checks. |
+| `14_Fire_Protection_and_Building_Safety` | Public records on the fire district covering the plant (Hygiene FPD), with three kinds of evidence: tax area, boundary map and the MSHA record of the 10/3/2025 coal-mill fire. Also the fire codes adopted by the Hygiene and Lyons districts, Hygiene FPD board minutes mentioning CEMEX (2024-2026), county building-code and unsafe-structure rules, and statute text. Each item is labeled documented, reported or inference. |
 | `Images` | Photographs and drone imagery. |
 | `Z_Related_Other_CEMEX_Mines` | DRMS files for other CEMEX/related mines (Larimer M-1977-341, Wyoming PT0658, Arcosa M-1988-108), plus short analysis notes on Larimer tonnage, Weaver/shale sourcing and Arcosa; comparative context, sorted last. |
 

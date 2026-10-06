@@ -1,6 +1,6 @@
 # Document Index
 
-653 documents. See `INDEX.csv` for the sortable version.
+684 documents. See `INDEX.csv` for the sortable version.
 
 ## 02_Nonconforming_Use_Evidence
 
@@ -489,6 +489,11 @@
 |  | Colorado Geological Survey SP-05AB.pdf | Historical | Document |  |
 | 2019-00-00 | Colorado Mineral Activites 2019-2020.pdf | Historical | Document |  |
 | 1998-00-00 | Southdown News 1998.pdf | Historical | Document |  |
+| 1994-11-03 | 1994-11-03_Hibbard_v_County_of_Adams_900_P2d_1254_Colo_App.txt | Legal_Reference_Unsafe_Structures | Opinion | Case law |
+| 1994-12-19 | 1994-12-19_State_Dept_of_Health_v_The_Mill_887_P2d_993_Colo.txt | Legal_Reference_Unsafe_Structures | Opinion | Case law |
+| 1996-06-17 | 1996-06-17_County_of_Adams_v_Hibbard_918_P2d_212_Colo.txt | Legal_Reference_Unsafe_Structures | Opinion | Case law |
+| 1999-02-18 | 1999-02-18_Gold_Vein_LLC_v_City_of_Cripple_Creek_973_P2d_1286_Colo_App.txt | Legal_Reference_Unsafe_Structures | Opinion | Case law |
+| 2023-12-01 | 2023-12-01_Bruce_v_Ogden_City_No_22-4114_10th_Cir_unpublished.pdf | Legal_Reference_Unsafe_Structures | Opinion | Case law |
 
 ## 12_Presentations
 
@@ -509,6 +514,37 @@
 |---|---|---|---|---|
 | 2026-09-00 | 2026-09_to_2026-10_Plant_Status_Timeline.md |  | Timeline | M-1977-208 (Lyons mine) |
 | 2026-09-25 | Public_Records_Monitoring_Log_2026-09-25_to_2026-10-01.md | Public_Records_Monitoring_Log | Log | M-1977-208 (Lyons mine) |
+
+## 14_Fire_Protection_and_Building_Safety
+
+| Date | Document | Subfolder | Type | Facility/Case |
+|---|---|---|---|---|
+| 2019-06-18 | 2019-06-18_Boulder_County_Land_Use_Code_Article_14_Rubbish_Weeds_Unsafe_Structure.pdf | County_Building_and_Unsafe_Structure_Rules | Code | Boulder County |
+| 2025-03-31 | 2025-03-31_Boulder_County_Building_Code_2021_Amendments_Res_2025-012.pdf | County_Building_and_Unsafe_Structure_Rules | Code | Boulder County |
+| 2026-01-15 | 2026-01-15_BOCC_Staff_Report_DC-25-0003_Land_Use_Code_Text_Amendments_pp1-45.pdf | County_Building_and_Unsafe_Structure_Rules | Staff report | DC-25-0003 (Boulder County) |
+| 2014-04-10 | 2014-04-10_Boulder_County_Res_2014-28_Hygiene_FPD_2012_IFC.pdf | Fire_Code_Adoptions | Resolution | Hygiene FPD |
+| 2021-09-16 | 2021-09-16_Boulder_County_Res_2021-71_Lyons_FPD_2015_IFC.pdf | Fire_Code_Adoptions | Resolution | Lyons FPD |
+| 2023-04-17 | 2023-04-17_Lyons_FPD_Res_2023-003_2021_IFC_and_Amendments_Town_of_Lyons_packet.pdf | Fire_Code_Adoptions | Resolution | Lyons FPD |
+| 2023-04-17 | 2023-04-17_Town_of_Lyons_Res_2023-23_2021_IFC.pdf | Fire_Code_Adoptions | Resolution | Lyons FPD |
+| 2023-05-23 | 2023-05-23_FCRC_Staff_Report_FCRC-23-0001_Lyons_FPD_and_FCRC-23-0002.pdf | Fire_Code_Adoptions | Staff report | FCRC-23-0001 (Lyons FPD) |
+| 2023-06-22 | 2023-06-22_BOCC_FCRC_Staff_Packet_Lyons_FPD_items_pp1-78_incl_boundary_map_p70.pdf | Fire_District_Jurisdiction | Staff packet | FCRC-23-0001 (Lyons FPD) |
+| 2023-06-22 | 2023-06-22_Lyons_FPD_Boundary_Map_dated_2020-02-27_packet_p70.png | Fire_District_Jurisdiction | Image | Lyons FPD |
+| 2023-06-22 | 2023-06-22_Lyons_FPD_Boundary_Map_p70_crop_east_of_US36.png | Fire_District_Jurisdiction | Image | Lyons FPD |
+| 2025-10-03 | 2025-10-03_MSHA_Accident_Record_220253170469_Lyons_Coal_Mill_Fire.csv | Fire_District_Jurisdiction | Data | MSHA 0500344 (Lyons plant) |
+| 2025-00-00 | 2025_Boulder_County_Mill_Levy_Extract_Tax_Areas_2801_2806_2875.csv | Fire_District_Jurisdiction | Data | Boulder County |
+| 2026-09-23 | Boulder_County_Assessor_Extract_CEMEX_Plant_Parcel_Tax_Areas_2026-09-23.csv | Fire_District_Jurisdiction | Data | Boulder County |
+| 2024-06-12 | HFPD_Board_Minutes_2024-06-12.pdf | Hygiene_FPD_Board_Minutes | Minutes | Hygiene FPD |
+| 2024-08-14 | HFPD_Board_Minutes_2024-08-14.pdf | Hygiene_FPD_Board_Minutes | Minutes | Hygiene FPD |
+| 2024-10-09 | HFPD_Board_Minutes_2024-10-09.pdf | Hygiene_FPD_Board_Minutes | Minutes | Hygiene FPD |
+| 2025-02-12 | HFPD_Board_Minutes_2025-02-12.pdf | Hygiene_FPD_Board_Minutes | Minutes | Hygiene FPD |
+| 2025-09-10 | HFPD_Board_Minutes_2025-09-10.pdf | Hygiene_FPD_Board_Minutes | Minutes | Hygiene FPD |
+| 2025-10-08 | HFPD_Board_Minutes_2025-10-08.pdf | Hygiene_FPD_Board_Minutes | Minutes | Hygiene FPD |
+| 2025-11-12 | HFPD_Board_Minutes_2025-11-12.pdf | Hygiene_FPD_Board_Minutes | Minutes | Hygiene FPD |
+| 2025-12-10 | HFPD_Board_Minutes_2025-12-10.pdf | Hygiene_FPD_Board_Minutes | Minutes | Hygiene FPD |
+| 2026-01-14 | HFPD_Board_Minutes_2026-01-14.pdf | Hygiene_FPD_Board_Minutes | Minutes | Hygiene FPD |
+| 2026-03-11 | HFPD_Board_Minutes_2026-03-11.pdf | Hygiene_FPD_Board_Minutes | Minutes | Hygiene FPD |
+| 2026-03-03 | 2026-03-03_Clear_Creek_County_Res_R-26-24_Unsafe_Structure.pdf | Other_Colorado_Examples | Resolution | Clear Creek County |
+| 2024-00-00 | CRS_32-1-1002_and_30-15-401(1)(q)_Statute_Text_2024.md | Statutes | Statute | C.R.S. |
 
 ## Images
 

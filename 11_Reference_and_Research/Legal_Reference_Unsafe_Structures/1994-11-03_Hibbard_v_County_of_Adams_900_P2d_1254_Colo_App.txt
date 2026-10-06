@@ -1,0 +1,229 @@
+Hibbard v. County of Adams, 900 P.2d 1254 (Colo. App. 1994), No. 93CA0593
+Source: https://law.justia.com/cases/colorado/court-of-appeals/1995/93ca0593-0.html (retrieved 2026-10-05)
+Public court opinion text as published by the source. Headnotes and editorial matter, if any, belong to the source. Check an official reporter before quoting.
+==============================================================================
+
+900 P.2d 1254 (1994)
+
+Dean HIBBARD and H.D. Garrison, Plaintiffs-Appellees and Cross-Appellants,
+v.
+COUNTY OF ADAMS, State of Colorado; Robert J. Loew; and Darrel L. Matteson, Defendants-Appellants and Cross-Appellees.
+
+No. 93CA0593.
+
+Colorado Court of Appeals, Div. I.
+
+November 3, 1994.
+
+As Modified on Denial of Rehearing December 1, 1994.
+
+Certiorari Granted August 14, 1995.
+
+*1257 Gilbert Goldstein, Darrel L. Campbell, Denver, for plaintiffs-appellees and cross-appellants.
+
+Gehler & Merrigan, Thomas E. Merrigan, Paula B. Gerlach, Commerce City, for defendants-appellants and cross-appellees.
+
+Opinion by Judge CRISWELL.
+
+Defendants, County of Adams; Robert J. Loew, the county attorney; and his assistant, Darrel L. Matteson, appeal from the judgment of the trial court awarding damages and attorney fees under 42 U.S.C. §§ 1983 and 1988 (1982) to plaintiffs, Dean Hibbard and H.D. Garrison, for violation of their civil rights. Plaintiffs cross-appeal from the trial court's rejection of their claim that an ordinance *1258 of the County was invalid and from that court's award of damages and attorney fees. We affirm in part, reverse in part, vacate the award of fees, and remand the cause for further proceedings.
+
+In 1988, the County adopted an ordinance (Ordinance No. 3) designed to eliminate "blighted areas" in the county. It contains two substantive provisions that are pertinent here.
+
+First, Section III of Ordinance No. 3 provides, in part, that:
+
+The exteriors of all commercial establishments or multifamily buildings ... shall be maintained so as to present a neat and orderly appearance. (emphasis supplied)
+In addition, Section V provides that a commercial establishment or a multifamily building must be "kept free of junk, trash, rubbish, debris or refuse of any kind."
+
+Failure of the owner of any property to comply with these requirements is declared to be a "cause of blight" and is subject to enforcement proceedings under the ordinance.
+
+In the case of a violation of the ordinance, a notice is given to the owner of the property, and the property must be brought into compliance. If the offending materials are not removed, a hearing is held, and an Administrative Law Judge (ALJ) must make findings as to whether causes of blight exist; if the ALJ finds that such exist and should be removed, an administrative order is issued commanding the owner to remove the causes of the blight.
+
+Plaintiff Hibbard owned real property within the county upon which were located two commercial buildings, one of which had been damaged by fire in 1983 and had not been repaired. Plaintiff Garrison was living in the other building in which he maintained various items of personal property.
+
+In 1989, the County, alleging that the property was being maintained in violation of Ordinance No. 3, gave notice to plaintiffs and a hearing was held before an ALJ, who issued a written decision finding that certain "blight factors" existed on the property, as follows:
+
+A. a building which is vacant and was the subject of a fire in 1983 which pursuant to Section III of Ordinance No. 3, County of Adams, is not a building that is being maintained so as to present a neat and orderly appearance....
+B. Pursuant to Section V, this Court finds that junk, loose trash, a semi-trailer, fence posts, barricades, tires, wood, bricks, cones, metal junk, piles of asphalt, acetylene tank, rusted containers, cinder blocks, trash, rusted trailers, an inoperable and unsightly van, an inoperable pickup truck, old and unsightly out-buildings, an old and rusted motor cart are all blighting factors on this particular property. (emphasis supplied)
+The order also required all materials, "except the building referred to above," removed by a specified date and the "foregoing blighted building which was burned in the fire in 1983" to be removed a few days later. If plaintiffs did not comply with this order as directed, the County was authorized to enter upon the premises, to remove the items described, and to charge the costs of such removal as a lien against the property.
+
+Plaintiffs failed to comply with the ALJ's order, and the County proceeded to "clean-up" the property. In doing so, it destroyed both the fire damaged building and the other building on the property. In addition, it removed and destroyed plaintiff Garrison's personal property inside the second building and damaged an underground tank, pump, and well that were on the property.
+
+Plaintiffs then instituted this action, asserting several claims against the defendants. They sought a declaratory judgment that, to the extent that Ordinance No. 3 authorized the destruction of a building because it did not present a "neat and orderly" appearance, the same was invalid because not authorized by any Colorado statute and because it was unconstitutionally vague. In addition, they *1259 sought a joint and several judgment for damages against all defendants based upon the destruction of the second building and of the items of personalty within that building and for the damage to the underground tank, pump, and well.
+
+The trial court upheld the validity of Ordinance No. 3. However, it determined that the ALJ's order did not authorize the destruction of the second building nor the removal of the personalty within it. It also found that the individual defendants knew that the ALJ's order did not apply to such items, but willfully ordered their destruction in violation of plaintiffs' constitutional rights. It entered a judgment for damages against all three defendants.
+
+However, the court refused to grant any award for the damages caused to the tank, pump, and well because it determined that such damage was a necessary incident to the destruction and removal of the fire damaged building and the other items described in the ALJ's order, which were properly authorized to be destroyed or removed.
+
+I. The Validity of Ordinance No. 3.
+
+Plaintiffs argue that, to the extent that Ordinance No. 3 purports to authorize the destruction of any building through administrative proceedings, it is invalid because the County has not been authorized to adopt any such regulation. They also argue that, in any case, because the only standard for destruction is whether the building presents a "neat and orderly" appearance, the ordinance is unconstitutionally vague. Because we agree with plaintiffs' first assertion, we need not reach their second.
+
+In Colorado, a county possesses no inherent powers. Rather, it has only that "regulatory authority `expressly conferred upon [it] by the constitution and statutes, and such incidental implied powers as are reasonably necessary to carry out such express powers.'" Board of County Commissioners v. Bowen/Edwards Associates, Inc., 830 P.2d 1045, 1055 (Colo.1992) (alteration in original) (quoting Board of County Commissioners v. Love, 172 Colo. 121, 470 P.2d 861 (1970)). It necessarily follows, therefore, that "a county ordinance or regulation exceeding the authority granted by the state is invalid." Cimarron Corp. v. Board of County Commissioners, 193 Colo. 164, 168, 563 P.2d 946, 949 (1977).
+
+The question, therefore, is whether, at the time of the events giving rise to this litigation, any statute authorized a county to require the removal of a building because it is not "neat and orderly." We conclude that there existed no such statute.
+
+Ordinance No. 3 itself recites that it was adopted pursuant to the authority granted to the County by § 30-15-401, et seq., C.R.S. (1994 Cum.Supp.). In addition, in oral argument before us, the County argued that the statute authorizing it to adopt a zoning resolution provided it with the requisite authority. We disagree.
+
+At the time of the ordinance's adoption, what is now § 30-15-401(1)(a), C.R.S. (1994 Cum.Supp.), granted authority for a county to:
+
+compel the removal of rubbish, including trash, junk, and garbage, from lots and tracts of land within the county.... (emphasis supplied)
+It also authorized the County, upon notice and failure of the property owner to remove such items, to accomplish the removal and to assess the costs therefor against the property, to be collected as ad valorem taxes are collected.
+
+This statute also authorizes a county to compel the removal of weeds and brush, but it requires application to a county or district court for the issuance of an administrative entry and seizure warrant in order for the county to remove the same. Section 30-15-401(1)(a)(I.5), C.R.S. (1994 Cum.Supp.).
+
+This statute does not define the terms "rubbish," "trash," "junk," or "garbage," but nothing within the statute evidences an intent to have these items carry other than *1260 their ordinary meanings. And, such terms generally refer to worn or used items, waste having relatively little or no value, or refuse from food preparation. See Webster's Third New International Dictionary 935, 1227, 1983, and 2421 (1976).
+
+In 1990, after the occurrence of the events relevant here, the General Assembly added § 30-15-401(1)(q), C.R.S. (1994 Cum.Supp.), which authorizes the removal of "any building or structure" presenting a substantial danger to the public health, safety, or welfare, or which is dilapidated and unused by the owner, or which is uninhabited because of deterioration or decay, if its condition constitutes a fire hazard or subjects the adjoining property to danger of damage by storm, soil erosion, or rodent infestation, or any building which becomes a place frequented by trespassers and transients seeking a temporary hideout or shelter.
+
+That amendment is not applicable here. Nevertheless, the General Assembly's use of the term "building or structure" in the same statutory section under consideration is evidence that it did not intend for the general terms rubbish, trash, junk, or garbage to include buildings or structures.
+
+We conclude, then, that, to the extent that Ordinance No. 3 contemplates the removal of junk, trash, garbage, and rubbish, as those terms are generally understood, the ordinance was authorized by the then existing provisions of § 30-15-401(1). However, to the extent that the ordinance purported to allow an ALJ to issue an order compelling the removal of any building or structure, it was not so authorized.
+
+Further, we hold that "old or unsightly outbuildings" cannot, by those facts alone, be considered to be junk, trash, debris, or rubbish of any kind. Here, the ALJ made no determination that either building had become so deteriorated that it no longer constituted a "building" and had become merely junk, debris, or rubbish. The ALJ's order was based solely upon his finding that the fire-damaged building did not present a "neat and orderly" appearance.
+
+Likewise, we conclude that none of the statutes authorizing a county to adopt zoning regulations, see § 30-28-111, et seq., C.R.S. (1986 Repl.Vol. 12A), provided support for this aspect of Ordinance No. 3.
+
+Even if we assume that a county may, in the exercise of its zoning power, require the removal of buildings that are not maintained in a "neat and orderly" manner, the violation of a zoning regulation is to be enforced by the withholding of building permits, § 30-28-114, C.R.S. (1986 Repl.Vol. 12A), by criminal prosecution, § 30-28-124(1), or by an appropriate civil action in the district court, § 30-28-124(2), C.R.S. (1986 Repl.Vol. 12A). As defendants conceded during oral argument before us, the statutes authorizing the County to zone do not authorize it to destroy buildings not in conformance with a zoning requirement by means of a local administrative order.
+
+We conclude, therefore, that, to the extent that Ordinance No. 3 purports to authorize the County to destroy and remove buildings that do not present a "neat and orderly" appearance, the same was unauthorized and invalid. That ordinance, therefore, could not provide any justification for the County's destruction of either of the buildings destroyed by its agents.
+
+II. The County's Liability under § 1983.
+
+42 U.S.C. § 1983 authorizes the award of damages to any person who is deprived of any right, privilege, or immunity secured by the Constitution or laws by any "person" acting "under color of any statute, ordinance, regulation, custom, or usage" of any state or local government. And, under this statute, a local government, such as the County, is a "person" subject to suit. Monell v. Department of Social Services, 436 U.S. 658, 98 S. Ct. 2018, 56 L. Ed. 2d 611 (1978); Wigger v. McKee, 809 P.2d 999 (Colo.App. 1990).
+
+However, such an entity is not liable under the doctrine of respondeat superior. Monell v. Department of Social Services, supra. *1261 It is liable only to the extent that the deprivation of rights results from the implementation of a policy, whether formal or informal, adopted by the entity. See Pembaur v. Cincinnati, 475 U.S. 469, 106 S. Ct. 1292, 89 L. Ed. 2d 452 (1986).
+
+A.
+Ordinance No. 3 is an express, formal "policy" adopted by the County to require the removal or destruction of buildings not "neat and orderly." Hence, to the extent that the actions of the County's agents in destroying the two buildings were authorized by Ordinance No. 3, the County is liable for any damages resulting from that destruction. Such destruction, under the circumstances, would constitute a "taking" of plaintiffs' property without compensation and without due process of law. See Srb v. Board of County Commissioners, 43 Colo.App. 14, 601 P.2d 1082 (1979).
+
+The ALJ's order, issued pursuant to Ordinance No. 3, authorized the destruction of the fire damaged building. And, plaintiffs seek no damages because of the County's destruction of this building itself. However, because Ordinance No. 3 provided no proper authority for such action, the County is liable for any damage to plaintiff's other property, such as the underground tank, pump, and well, if such damage resulted from the County's unauthorized action.
+
+The trial court determined that destruction of the other building was not authorized by the ALJ's order. Yet, before us the County argues that it was so authorized. If so, that second building was also destroyed pursuant to Ordinance No. 3, and its destruction was wrongful. In such circumstances, the County would be liable for the destruction of this building to the same extent that it is liable for damages to plaintiff's other property, such as the underground tank, pump, and well, if such damage resulted from the County's unauthorized action.
+
+We need not decide this issue, however. Rather, we conclude that, even if the ALJ's order did not authorize the destruction of the other building, the County is still liable for any resulting damages.
+
+B.
+An action of a local government's officer may be undertaken pursuant to a "policy" of a local government even though that policy is not reduced to a formal statement. Indeed, a local official may establish policy by his or her decision in a single instance, if he or she is, in fact, a "policy maker," i.e., if he or she has the final word upon the subject. Pembaur v. Cincinnati, supra. See also St. Louis v. Praprotnik, 485 U.S. 112, 108 S. Ct. 915, 99 L. Ed. 2d 107 (1988); Givan v. Colorado Springs, 876 P.2d 27 (Colo.App. 1993) (cert. granted).
+
+Thus, in Pembaur, a county was held liable for the unlawful search of a physician's office when the sheriff requested the legal advice of the county attorney, and the county attorney advised the sheriff to proceed with the search. There, the county attorney's determination of the right of the county to search constituted the establishment of a "policy" of the county with respect to that particular transaction.
+
+The county attorney in Colorado is a constitutional officer, appointed by the county commissioners. Colo. Const. art. XIV, § 8; § 30-11-118, C.R.S. (1986 Repl.Vol. 12A). The duties and responsibilities of the office were described by our supreme court in Medberry v. People, 107 Colo. 15, 19, 108 P.2d 243, 245 (1940), as follows:
+
+Under the statutes of Colorado a county attorney is employed primarily as the legal advisor of the county commissioners in whose discretion reposes the power of appointment.... In certain matters he advises other county administrative officers, appears for the county in cases involving dependent, neglected and delinquent children, in lunacy inquests and, when directed by the county commissioners, in civil litigation to which the county is a party or in which it is interested. (emphasis supplied)
+*1262 Further, if, as defendants argue here, the adoption of Ordinance No. 3 was an exercise of the County's zoning authority, the county attorney is specifically invested, by statute, with the responsibility of enforcing its provisions. See § 30-28-124(2), C.R.S. (1986 Repl.Vol. 12A). Indeed, in asserting that their actions here were subject to an absolute immunity, the individual defendants affirmatively allege that one of the responsibilities of their offices is to enforce the provisions of Ordinance No. 3.
+
+The county attorney testified that he was the highest ranking county official present at the property when the two buildings were destroyed, and, as such official, he was there "to oversee and give any direction, assistance, advice that I could." At that time, a "debate" over the question whether the second building was covered by the ALJ's order occurred. According to one witness, the assistant county attorney advised the county attorney that the order did not cover the second building, but the county attorney ordered its destruction on the basis that it would be "cheaper" to have plaintiffs sue him. In any event, the two attorneys conferred with the county's zoning administrator who was responsible for directing the physical work on the site, and a "consensus" was reached that the second building would be destroyed.
+
+With respect to the meaning and breadth of the ALJ's order, we are convinced that the interpretation placed upon it by the county attorney and his assistant constituted the adoption of an official county policy. Indeed, the County has specifically adopted that interpretation in these proceedings and has urged its correctness both in the trial court and before us. See St. Louis v. Praprotnik, supra (entity is liable for civil rights violation if it adopts policy of subordinate).
+
+Given these circumstances, therefore, we conclude that the County is liable for any damages resulting to plaintiffs from the destruction of either building.
+
+III. The Individuals' Liability.
+
+Whether an individual public employee is a "policy-maker," while important in determining the liability of a governmental unit under § 1983, is irrelevant in determining his or her own liability under that statute. This is so because, irrespective of the level of responsibility, a government official is personally liable under § 1983 for an abuse of the power of office which results in the deprivation of a constitutional right. This does not mean, of course, that an act of simple negligence by an official will give rise to such liability. Daniels v. Williams, 474 U.S. 327, 106 S. Ct. 662, 88 L. Ed. 2d 662 (1986).
+
+Here, the trial court determined, with record support, that, in light of the events at the hearing before the ALJ, it was "uncontrovertible" that the ALJ's order did not authorize the destruction of the second building and that the two individual defendants knew that its destruction was unauthorized. Nevertheless, the court found, the two individuals "willfully" interpreted the order as allowing destruction of the second building. Hence, the court entered a judgment against the two individual defendants for the damages sustained as a result of the destruction of the second building and its contents.
+
+The individual defendants assert that the trial court erred in several ways in entering this judgment against them. We disagree with each of their assertions.
+
+A.
+The two attorneys first assert that they were sued only in their "official" capacities.
+
+However, in no place in any of the pleadings do plaintiffs describe the two defendants as being sued only in their official capacities. Rather, from the beginning, plaintiffs sought to recover damages against all defendants, personally, and on a joint and several basis. Such a claim can be asserted against these two defendants only in their personal capacities. See Kentucky v. Graham, 473 U.S. 159, 105 S. Ct. 3099, 87 L. Ed. 2d 114 (1985).
+
+The allegation in plaintiffs' complaint that the two individuals were acting, "not as individuals, *1263 but under the color and pretense of the ordinances of the County," was an allegation that the defendants were acting under color of law and not simply as individualsa necessary condition to impose personal liability under § 1983. See Screws v. United States, 325 U.S. 91, 65 S. Ct. 1031, 89 L. Ed. 1495 (1945) (an individual pursuing purely private ends without use of governmental authority does not act "under color of law").
+
+Finally, because the County itself was subject to suit here, nothing was to be accomplished by suing the individuals only in their official capacities. See Brandon v. Holt, 469 U.S. 464, 105 S. Ct. 873, 83 L. Ed. 2d 878 (1985); Oten v. Colorado Board of Social Services, 738 P.2d 37 (Colo.App.1987) (official capacity suit is used when entity, such as the state, is itself not subject to suit under § 1983).
+
+B.
+The individual defendants also assert that the doctrine of prosecutorial immunity provides them an absolute immunity for their actions here.
+
+In actions under § 1983, there exists an absolute immunity for persons exercising the prosecutorial function, i.e., for those performing acts that are "intimately associated with the judicial phase of the criminal process." Imbler v. Pachtman, 424 U.S. 409, 430, 96 S. Ct. 984, 995, 47 L. Ed. 2d 128, 143 (1976). However, in determining the existence of such immunity, a "functional" test is employedthe court must look "to the nature of the function performed, not the identity of the actor who performed it." Buckley v. Fitzsimmons, 509 U.S. ___, ___, 113 S. Ct. 2606, 2613, 125 L. Ed. 2d 209, 223 (1993) (neither pre-indictment investigation activities nor post-indictment public statements are part of the prosecutorial function).
+
+The giving of legal advice to law enforcement agents is not a part of the prosecutorial function because it is not intimately associated with the judicial process. Burns v. Reed, 500 U.S. 478, 111 S. Ct. 1934, 114 L. Ed. 2d 547 (1991); Higgs v. District Court, 713 P.2d 840 (Colo.1985). See also Awai v. Kotin, 872 P.2d 1332 (Colo.App.1993).
+
+Here, the acts charged against the individuals consist of interpreting the ALJ's order and of advising other county officials of that interpretation. Hence, they are not entitled to absolute immunity with respect to such acts.
+
+C.
+Every public official is entitled to assert a qualified immunity in a damage action under § 1983. Such an official is, therefore, not liable for his or her actions unless those actions violate "clearly established statutory or constitutional rights of which a reasonable person would have known." Harlow v. Fitzgerald, 457 U.S. 800, 818, 102 S. Ct. 2727, 2738, 73 L. Ed. 2d 396, 410 (1982). And, to be "clearly established" for this purpose, the nature of the right must be sufficiently clear that a reasonable official would know that what he or she is doing violates that right. Anderson v. Creighton, 483 U.S. 635, 107 S. Ct. 3034, 97 L. Ed. 2d 523 (1987); Abouzari v. Foster, 795 P.2d 1386 (Colo.App. 1990). The existence of a qualified immunity, therefore, will depend upon objective factors. See Higgs v. District Court, supra.
+
+Here, then, the questions presented are whether the individuals' interpretation of the order as authorizing the destruction of the second building and its contents was objectively reasonable and, if not, whether they reasonably should have known that a county's destruction of private property under the circumstances would constitute a "taking" of plaintiffs' property without compensation or due process of law.
+
+While the trial court did not specifically refer to this issue in passing upon the individual defendants' liability, that court specifically found that one of them knew that the order did not cover the second building and that he so informed the other individual. *1264 Consequently, the trial court, on supporting evidence, found that these two defendants acted "willfully" in destroying the second building.
+
+Further, as attorneys for the County, the individual defendants were charged with the knowledge that a county's deliberate destruction of private property, if not lawfully authorized, constitutes a taking of property without compensation and without due process of law. See Srb v. Board of County Commissioners, supra.
+
+Hence, the record supports the judgment entered against the individual defendants for the damages sustained by plaintiffs as a result of the destruction of the second building and its contents.
+
+However, because the trial court considered the destruction of the fire damaged building to be proper, it did not consider the individuals' liability for any damage that might have resulted from its destruction. We conclude that they cannot be liable for any such damage because it was, at the time the ALJ issued his order and the individuals interpreted it, by no means "clearly established" that Ordinance No. 3 was partially invalid. On the contrary, the district court concluded that the County was authorized to adopt such an ordinance. Accordingly, the individuals enjoy a qualified immunity from liability for damages flowing from the ordinance's partial invalidity. See Rappa v. New Castle County, 18 F.3d 1043 (3rd Cir.1994).
+
+D.
+The individuals finally assert that the trial court's consideration of the transcript of the hearing before the ALJ was error.
+
+However, if an order is subject to some ambiguity, the record of the proceedings in which it was entered may be reviewed so as to interpret it. See Hinderlider v. Canon Heights Irrigation & Reservoir Co., 117 Colo. 183, 189, 185 P.2d 325, 327 (1947) (when construction of a court decree is necessary, it must be construed "in light of the facts which gave it birth"); Security Mutual Casualty Co. v. Century Casualty Co., 621 F.2d 1062 (10th Cir.1980) (in construing ambiguous decree, court may examine entire record).
+
+Moreover, the assistant county attorney here was present throughout the hearing before the ALJ, and his knowledge of those proceedings was relevant upon the question of the objective reasonableness of his actions.
+
+Further, this transcript was not hearsay, as defendants contend. It was offered to demonstrate the nature of the evidence upon which the ALJ relied in entering his order, not for the truth of any testimony. Even if it was hearsay, it was admissible as a business record of a public agency. See CRE 803(6) and (8); Kriegel v. Industrial Commission, 702 P.2d 290 (Colo.App.1985).
+
+The trial court, therefore, committed no error in considering the transcript of the hearing before the ALJ.
+
+IV. Damages.
+
+A.
+Plaintiffs assert that the court erred in determining the amount of actual damages sustained by them. While we disagree that the court's award was erroneous, we do agree that, in light of our conclusion that Ordinance No. 3 is partially invalid, the cause must be remanded to the trial court for its further consideration.
+
+Generally, the measure of damages to be applied in a § 1983 action is to be determined from the principles developed from the common law of torts. Memphis Community School District v. Stachura, 477 U.S. 299, 106 S. Ct. 2537, 91 L. Ed. 2d 249 (1986).
+
+Because defendants' actions here resulted in the deprivation of plaintiffs' real and personal property, these actions were similar to a conversion of the property or to its "taking" through the exercise of the power of eminent domain. In either case, the *1265 measure of damages would be the same, i.e., the fair market value of the property at the time of the taking, any damage caused to the remaining property, and pre-trial interest from the date of the taking to the date of judgment. See Culpepper v. Pearl Street Building, Inc., 877 P.2d 877 (Colo.1994) (conversion); Herring v. Platte River Power Authority, 728 P.2d 709 (Colo.1986) (inverse condemnation).
+
+This was the measure of damages applied by the trial court. And, although the amount of damages awarded by that court was not supported by any specific testimony, that amount was within the range of values established by the evidence and was, therefore, properly supported. See Town of Red Cliff v. Reider, 851 P.2d 282 (Colo.App.1993).
+
+However, the trial court refused to enter any award for the damage to the underground tank, pump, and well, finding that the damages to these items occurred during the clean-up and removal of the items that were authorized to be removed by the ALJ's order. It is not possible to determine from the trial court's findings whether the damage to these items occurred during the destruction and removal of the fire damaged building or during the course of the removal of the various items of personal property.
+
+If the damage occurred as a result of destruction and removal of the fire damaged building, that damage would be compensable because it would have occurred during the course of an illegal action. Likewise, the same might be true if the damage occurred as a result of the County's removal of weeds and brush. See § 30-15-401(1)(a)(I.5). Hence, we must remand the cause to the trial court for it to determine the amount of damages, if any, sustained by plaintiffs in the course of the destruction and removal of the fire damaged building. If such damage occurred, only the County and not the individual defendants would be liable therefor.
+
+B.
+The parties agree that punitive damages cannot be assessed against the County. City of Newport v. Fact Concerts, Inc., 453 U.S. 247, 101 S. Ct. 2748, 69 L. Ed. 2d 616 (1981). They may be awarded against the individuals, however, if their actions demonstrate reckless or callous disregard of, or indifference to, the rights or safety of others. Smith v. Wade, 461 U.S. 30, 103 S. Ct. 1625, 75 L. Ed. 2d 632 (1983). Nevertheless, an award of punitive damages lies within the discretion of the fact finder; they "are never awarded as of right, no matter how egregious the defendant's conduct." Smith v. Wade, 461 U.S. at 52, 103 S. Ct. at 1638, 75 L. Ed. 2d at 648-49 (emphasis supplied).
+
+Here, the trial court determined that, because plaintiffs refused to cooperate with the County in attempting to remove items of personal property and assumed an adversarial position that resulted in a flaring of tempers, the defendants' conduct was not so egregious, given the circumstances, as to merit an award of exemplary damages. We cannot say that the trial court abused its discretion in reaching this determination.
+
+V. Attorney fees.
+
+42 U.S.C. § 1988 (1982) authorizes an award of attorney fees to the "prevailing party" in an action under § 1983. In order to be considered a prevailing party under this statute, all that is required is that the plaintiff succeed upon a significant issue presented by the litigation and achieve some of the benefits sought in the lawsuit (whether the same is achieved through adjudication or settlement). Hensley v. Eckerhart, 461 U.S. 424, 103 S. Ct. 1933, 76 L. Ed. 2d 40 (1983). See International Society for Krishna Consciousness, Inc. v. Colorado State Fair & Industrial Exposition Commission, 673 P.2d 368 (Colo.1983) (recognizing rule).
+
+If a plaintiff "prevails" under the Hensley standard, that plaintiff is entitled to an award of fees, absent some special circumstances which would render such an award unjust. Smith v. Robinson, 468 U.S. 992, 104 S. Ct. 3457, 82 L. Ed. 2d 746 (1984).
+
+Under the Hensley standard, plaintiffs were the prevailing parties. Hence, they are *1266 entitled to an award of fees under § 1988 for the prosecution of their claims.
+
+Defendants assert, however, that plaintiffs cannot be awarded fees here because an award of fees can only be made if the client is legally obligated to pay fees. They conclude, then, that, because counsel represented plaintiffs under an oral contingency fee arrangement, which was not reduced to writing as required by C.R.C.P. ch. 23.3, Rule 4, fees cannot be awarded. We reject this assertion.
+
+Under C.R.C.P. ch. 23.3, Rule 7, a contingency fee agreement is one under which the fee payable is based upon a "certain agreed percentage or amount that is payable only upon attaining a recovery, regardless of the time and effort involved." (emphasis supplied)
+
+Here, it was stipulated that plaintiffs and their counsel initially agreed that counsel would be paid at an hourly rate. As the litigation continued, however, it became apparent that plaintiffs would be unable to pay those fees. Counsel nevertheless continued their representation in anticipation that an award of fees would be made under § 1988, and if not, counsel was to treat the cause as a pro bono effort.
+
+Such an agreement is, by definition, not a contingent fee agreement under the rule and, therefore, need not be in writing.
+
+Further, we reject defendants' argument that an award of attorney fees cannot be made under § 1988 unless there is an obligation on behalf of the plaintiff to pay fees.
+
+Section 1988 calls for the award of "reasonable" fees. Their reasonableness is to be determined, based upon a consideration of the market value in the community of the services rendered. Blum v. Stenson, 465 U.S. 886, 104 S. Ct. 1541, 79 L. Ed. 2d 891 (1984) (award of fees mandated even though plaintiff represented by charitable organization); Oten v. Colorado Board of Social Services, supra (fee award of nearly $43,000 approved although plaintiffs were represented by Legal Aid Society). Hence, in determining a reasonable fee to be awarded to plaintiff, "[t]he trial judge should not be limited by the contractual fee agreement between plaintiff and counsel." Blanchard v. Bergeron, 489 U.S. 87, 96, 109 S. Ct. 939, 946, 103 L. Ed. 2d 67, 77 (1989).
+
+The fact that plaintiff here did not incur a specific obligation for the payment of fees to their counsel, therefore, does not prevent an award under § 1988.
+
+We agree with plaintiffs, however, that the trial court here did not properly calculate the amount of fees to be awarded.
+
+As was explained in Oten v. Colorado Board of Social Services, supra, there exists a required method for calculating attorney fees under § 1988. The court must first consider the number of hours that reasonably should have been expended by counsel and the reasonable hourly rates for the services rendered that would be charged by private lawyers in the community. Once a basic amount is calculated by considering these two factors (the "lodestar" amount), that basic amount may be adjusted, either upwards or downwards, by considering the nature of the services rendered, the degree of success achieved, and other pertinent factors. See Spensieri v. Farmers Alliance Mutual Insurance Co., 804 P.2d 268 (Colo. App.1990). However, the "lodestar" amount is presumptively the reasonable fee to be awarded. See Blanchard v. Bergeron, supra.
+
+Here, counsel for plaintiffs presented an affidavit listing the actual hours expended by them, the hourly rates deemed appropriate, and a description of the services rendered. Such affidavit supported a requested fee of some $86,000.
+
+In addition, both plaintiffs and defendants presented expert opinions with respect to the question of a reasonable fee. While these opinions varied widely, all the experts nevertheless expressed their views by using a "lodestar" approach.
+
+The court, however, did not engage in any lodestar calculation and, indeed, seems to *1267 have expressly rejected that approach. Rather, after hearing the expert testimony, it simply awarded a gross sum of $30,000 without specifying how it arrived at that figure except to refer to several factors which it took into consideration and to adopt a figure which it characterized as being about in the "middle" of the amounts suggested by the expert testimony.
+
+This failure to use the lodestar method of ascertaining fees was error. Further, by failing to use the lodestar method and by failing otherwise to detail its analysis of the basis for its award, the trial court failed to provide this court with the means for reviewing the award's propriety.
+
+We express no opinion whether the amount awarded by the court was proper. We must, however, remand the attorney fee issue to the trial court for its reconsideration under the proper standard.
+
+The present judgments against defendants for actual damages are affirmed, but the decree determining that Ordinance No. 3 is valid is reversed. The trial court's judgment awarding attorney fees is vacated, and the cause is remanded to the trial court for its determination, based on the present record, whether plaintiffs are entitled to an additional award of damages that may have occurred during the destruction of the fire damaged building and for its entry of an award of attorney fees for services rendered to plaintiffs, all in accordance with the views expressed in this opinion.
+
+METZGER and KAPELKE, JJ., concur.

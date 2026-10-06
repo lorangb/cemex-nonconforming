@@ -99,7 +99,9 @@ Dates ending in `-00` mean only the month or year is known. Verify against the d
 | 1994-09-08 | 1994-09-08_REPORT - M1977341 (2).pdf | Z_Related_Other_CEMEX_Mines | M-1977-341 (Larimer) |
 | 1994-09-08 | 1994-09-08_REPORT - M1977341 (3).pdf | Z_Related_Other_CEMEX_Mines | M-1977-341 (Larimer) |
 | 1994-09-08 | 1994-09-08_REPORT - M1977341.pdf | Z_Related_Other_CEMEX_Mines | M-1977-341 (Larimer) |
+| 1994-11-03 | 1994-11-03_Hibbard_v_County_of_Adams_900_P2d_1254_Colo_App.txt | 11_Reference_and_Research | Case law |
 | 1994-12-00 | AM01 Approval Dec 1994.pdf | 04_Dowe_Flats_M1993041 | M-1993-041 (Dowe Flats) |
+| 1994-12-19 | 1994-12-19_State_Dept_of_Health_v_The_Mill_887_P2d_993_Colo.txt | 11_Reference_and_Research | Case law |
 | 1995-00-00 | 013-0003_1995 INSP RPT__9 5 1995.pdf | 05_Air_Quality_Permit_95OPBO082 | 95OPBO082 (air permit) |
 | 1995-03-13 | 1995-03-13_GENERAL DOCUMENTS - M1977341.pdf | Z_Related_Other_CEMEX_Mines | M-1977-341 (Larimer) |
 | 1995-09-06 | 1995-09-06_REPORT - M1977341.pdf | Z_Related_Other_CEMEX_Mines | M-1977-341 (Larimer) |
@@ -107,6 +109,7 @@ Dates ending in `-00` mean only the month or year is known. Verify against the d
 | 1996-00-00 | 1996 CDPHE REport - 013-0003_1996 INSP RPT_12BO444-1-2_5 14 1996.pdf | 03_State_Mining_Permit_M1977208 | M-1977-208 (Lyons mine) |
 | 1996-00-00 | 013-0003_1996 INSP RPT__5 14 1996.pdf | 05_Air_Quality_Permit_95OPBO082 | 95OPBO082 (air permit) |
 | 1996-03-22 | 1996-03-22_REVISION - M1977341.pdf | Z_Related_Other_CEMEX_Mines | M-1977-341 (Larimer) |
+| 1996-06-17 | 1996-06-17_County_of_Adams_v_Hibbard_918_P2d_212_Colo.txt | 11_Reference_and_Research | Case law |
 | 1996-08-01 | 1996-08-01_REPORT - M1977341.pdf | Z_Related_Other_CEMEX_Mines | M-1977-341 (Larimer) |
 | 1996-08-30 | 1996-08-30_REPORT - M1977341 (2).pdf | Z_Related_Other_CEMEX_Mines | M-1977-341 (Larimer) |
 | 1996-08-30 | 1996-08-30_REPORT - M1977341 (3).pdf | Z_Related_Other_CEMEX_Mines | M-1977-341 (Larimer) |
@@ -139,6 +142,7 @@ Dates ending in `-00` mean only the month or year is known. Verify against the d
 | 1999-00-00 | Cement Kiln Dust - 1999 Memo__1.pdf | 03_State_Mining_Permit_M1977208 | M-1977-208 (Lyons mine) |
 | 1999-00-00 | TR1 - Analysis of CKD Impact in C-Pit - 1999.pdf | 03_State_Mining_Permit_M1977208 | M-1977-208 (Lyons mine) |
 | 1999-00-00 | 013-0003-001_1999 INSP RPT_12BO444-1_9 15 1999.PDF | 05_Air_Quality_Permit_95OPBO082 | 95OPBO082 (air permit) |
+| 1999-02-18 | 1999-02-18_Gold_Vein_LLC_v_City_of_Cripple_Creek_973_P2d_1286_Colo_App.txt | 11_Reference_and_Research | Case law |
 | 1999-04-08 | 1999-04-08_REVISION - M1977208.pdf | 03_State_Mining_Permit_M1977208 | M-1977-208 (Lyons mine) |
 | 1999-05-13 | 1999_PT0658_AR_1999MAY13.pdf | Z_Related_Other_CEMEX_Mines | PT0658 (Wyoming) |
 | 1999-06-23 | 1999-06-23_REVISION - M1977208 (1).pdf | 03_State_Mining_Permit_M1977208 | M-1977-208 (Lyons mine) |
@@ -287,6 +291,7 @@ Dates ending in `-00` mean only the month or year is known. Verify against the d
 | 2013-04-19 | 2013_PT0658_AR_2013APR19.pdf | Z_Related_Other_CEMEX_Mines | PT0658 (Wyoming) |
 | 2014-00-00 | 2014 - Verizon Modifications and Determination.pdf | 02_Nonconforming_Use_Evidence |  |
 | 2014-03-10 | 2014_PT0658_AR_2014MAR10.pdf | Z_Related_Other_CEMEX_Mines | PT0658 (Wyoming) |
+| 2014-04-10 | 2014-04-10_Boulder_County_Res_2014-28_Hygiene_FPD_2012_IFC.pdf | 14_Fire_Protection_and_Building_Safety | Hygiene FPD |
 | 2015-03-15 | 2015_PT0658_AR_2015MAR15.pdf | Z_Related_Other_CEMEX_Mines | PT0658 (Wyoming) |
 | 2015-07-02 | 2015-07-02_REVISION - M1977208.pdf | 03_State_Mining_Permit_M1977208 | M-1977-208 (Lyons mine) |
 | 2015-10-01 | Hazardous Locate   10-01-2015.pdf | 02_Nonconforming_Use_Evidence |  |
@@ -297,6 +302,7 @@ Dates ending in `-00` mean only the month or year is known. Verify against the d
 | 2017-11-17 | CEMEX Construction Materials South, LLC - Lyons Cement Plant_  Revised Permit (11_17_17) - 95OPBO082 renew2 p01.pdf | 05_Air_Quality_Permit_95OPBO082 | 95OPBO082 (air permit) |
 | 2018-00-00 | CDPHE_2018_Inspection_p204_P050_0_tons_OnBase-4215138.png | 05_Air_Quality_Permit_95OPBO082 | 95OPBO082 (air permit) |
 | 2019-00-00 | Colorado Mineral Activites 2019-2020.pdf | 11_Reference_and_Research |  |
+| 2019-06-18 | 2019-06-18_Boulder_County_Land_Use_Code_Article_14_Rubbish_Weeds_Unsafe_Structure.pdf | 14_Fire_Protection_and_Building_Safety | Boulder County |
 | 2019-07-15 | MINERAL RULES AND REGULATIONS FOR THE EXTRACTION OF CONSTRUCTION MATERIALS 7-15-19.pdf | 09_Correspondence |  |
 | 2020-00-00 | Dowe Flats Covenant Termination 2020-Feb.pdf | 04_Dowe_Flats_M1993041 | M-1993-041 (Dowe Flats) |
 | 2020-00-00 | CDPHE_2020_Inspection_p197_P050_0_tons_OnBase-9456612.png | 05_Air_Quality_Permit_95OPBO082 | 95OPBO082 (air permit) |
@@ -306,6 +312,7 @@ Dates ending in `-00` mean only the month or year is known. Verify against the d
 | 2020-09-11 | Reclamation Costs - 2020-09-11_PERMIT FILE - M1993041.pdf | 04_Dowe_Flats_M1993041 | M-1993-041 (Dowe Flats) |
 | 2021-00-00 | CDPHE_2021_Inspection_p210_P050_0_tons_OnBase-13225567.png | 05_Air_Quality_Permit_95OPBO082 | 95OPBO082 (air permit) |
 | 2021-00-00 | PT658 2021-2022 Annual Report.pdf | Z_Related_Other_CEMEX_Mines | PT0658 (Wyoming) |
+| 2021-09-16 | 2021-09-16_Boulder_County_Res_2021-71_Lyons_FPD_2015_IFC.pdf | 14_Fire_Protection_and_Building_Safety | Lyons FPD |
 | 2022-00-00 | CDPHE_2022_Inspection_p258_P050_0_tons_OnBase-24063904.png | 05_Air_Quality_Permit_95OPBO082 | 95OPBO082 (air permit) |
 | 2022-00-00 | resolution 2022-075 CEMEX Dowe Flats Mining and Reclamation Extension (SU-22-0003).pdf | 06_Boulder_County_Land_Use | SU-22-0003 |
 | 2022-03-03 | M1977-208_Inspection-Report_wEncls_2022-03-03_Red-Size (1) (1).pdf | 03_State_Mining_Permit_M1977208 | M-1977-208 (Lyons mine) |
@@ -337,6 +344,12 @@ Dates ending in `-00` mean only the month or year is known. Verify against the d
 | 2023-02-24 | PT0658_AR_2023FEB24.pdf | Z_Related_Other_CEMEX_Mines | PT0658 (Wyoming) |
 | 2023-03-02 | 2023-03-02_INSPECTION - M1977208.pdf | 09_Correspondence | M-1977-208 (Lyons mine) |
 | 2023-03-24 | CX Letter to BOCO 3.24.23.pdf | 08_Operational_History_and_Traffic |  |
+| 2023-04-17 | 2023-04-17_Lyons_FPD_Res_2023-003_2021_IFC_and_Amendments_Town_of_Lyons_packet.pdf | 14_Fire_Protection_and_Building_Safety | Lyons FPD |
+| 2023-04-17 | 2023-04-17_Town_of_Lyons_Res_2023-23_2021_IFC.pdf | 14_Fire_Protection_and_Building_Safety | Lyons FPD |
+| 2023-05-23 | 2023-05-23_FCRC_Staff_Report_FCRC-23-0001_Lyons_FPD_and_FCRC-23-0002.pdf | 14_Fire_Protection_and_Building_Safety | FCRC-23-0001 (Lyons FPD) |
+| 2023-06-22 | 2023-06-22_BOCC_FCRC_Staff_Packet_Lyons_FPD_items_pp1-78_incl_boundary_map_p70.pdf | 14_Fire_Protection_and_Building_Safety | FCRC-23-0001 (Lyons FPD) |
+| 2023-06-22 | 2023-06-22_Lyons_FPD_Boundary_Map_dated_2020-02-27_packet_p70.png | 14_Fire_Protection_and_Building_Safety | Lyons FPD |
+| 2023-06-22 | 2023-06-22_Lyons_FPD_Boundary_Map_p70_crop_east_of_US36.png | 14_Fire_Protection_and_Building_Safety | Lyons FPD |
 | 2023-08-00 | 2023 - Demolition and Reclamation - Aug 2023 - M1977208.pdf | 03_State_Mining_Permit_M1977208 | M-1977-208 (Lyons mine) |
 | 2023-09-00 | Visual Evidence of New Structures - CEMEX Lyons - September 2023 (1).pdf | 02_Nonconforming_Use_Evidence |  |
 | 2023-10-00 | Response to BOCO Oct 2023 letter.pdf | 02_Nonconforming_Use_Evidence |  |
@@ -344,24 +357,42 @@ Dates ending in `-00` mean only the month or year is known. Verify against the d
 | 2023-11-16 | APEN_2023-11-16_p2_data_year_2022_OnBase-20327930.png | 05_Air_Quality_Permit_95OPBO082 | 95OPBO082 (air permit) |
 | 2023-11-16 | APEN_2023-11-16_p3_data_year_2022_OnBase-20327930.png | 05_Air_Quality_Permit_95OPBO082 | 95OPBO082 (air permit) |
 | 2023-11-16 | APEN_2023-11-16_p5_data_year_2022_OnBase-20327930.png | 05_Air_Quality_Permit_95OPBO082 | 95OPBO082 (air permit) |
+| 2023-12-01 | 2023-12-01_Bruce_v_Ogden_City_No_22-4114_10th_Cir_unpublished.pdf | 11_Reference_and_Research | Case law |
 | 2024-00-00 | 2024.07.09 - GNL Letter to D. Case re ZON-23-0003.pdf | 08_Operational_History_and_Traffic | ZON-23-0003 |
 | 2024-00-00 | 2024.12.20 - SOSVV & GNL Letter re ZON-23-0003.pdf | 08_Operational_History_and_Traffic | ZON-23-0003 |
 | 2024-00-00 | CEMEX - Lyons Letter May 9th 2024.pdf | 08_Operational_History_and_Traffic |  |
+| 2024-00-00 | CRS_32-1-1002_and_30-15-401(1)(q)_Statute_Text_2024.md | 14_Fire_Protection_and_Building_Safety | C.R.S. |
 | 2024-02-21 | Z-23-0002 Lyons Comprehensive Rezoning_Packet PC 2.21.2024.pdf | 06_Boulder_County_Land_Use | Z-23-0002 |
 | 2024-02-29 | 2024_PT0658_AR_2024FEB29.pdf | Z_Related_Other_CEMEX_Mines | PT0658 (Wyoming) |
 | 2024-03-18 | 2024-03-18_REVISION - M1977208.pdf | 03_State_Mining_Permit_M1977208 | M-1977-208 (Lyons mine) |
 | 2024-05-09 | Ex. A - 2024-05-09 Cemex letter to BOCO.pdf | 06_Boulder_County_Land_Use | ZON-23-0003 |
+| 2024-06-12 | HFPD_Board_Minutes_2024-06-12.pdf | 14_Fire_Protection_and_Building_Safety | Hygiene FPD |
+| 2024-08-14 | HFPD_Board_Minutes_2024-08-14.pdf | 14_Fire_Protection_and_Building_Safety | Hygiene FPD |
+| 2024-10-09 | HFPD_Board_Minutes_2024-10-09.pdf | 14_Fire_Protection_and_Building_Safety | Hygiene FPD |
 | 2024-11-07 | 2024-11-07 Cemex letter to BOCO.pdf | 06_Boulder_County_Land_Use | ZON-23-0003 |
 | 2024-11-21 | 2024-11-21_REVISION - M1977208.pdf | 03_State_Mining_Permit_M1977208 | M-1977-208 (Lyons mine) |
 | 2024-12-05 | 2024-12-05_REVISION - M1977208.pdf | 03_State_Mining_Permit_M1977208 | M-1977-208 (Lyons mine) |
 | 2025-00-00 | CEMEX airphoto study report 2025.pages | 08_Operational_History_and_Traffic |  |
 | 2025-00-00 | CEMEX airphoto study report 2025.pdf | 08_Operational_History_and_Traffic |  |
+| 2025-00-00 | 2025_Boulder_County_Mill_Levy_Extract_Tax_Areas_2801_2806_2875.csv | 14_Fire_Protection_and_Building_Safety | Boulder County |
+| 2025-02-12 | HFPD_Board_Minutes_2025-02-12.pdf | 14_Fire_Protection_and_Building_Safety | Hygiene FPD |
+| 2025-03-31 | 2025-03-31_Boulder_County_Building_Code_2021_Amendments_Res_2025-012.pdf | 14_Fire_Protection_and_Building_Safety | Boulder County |
+| 2025-09-10 | HFPD_Board_Minutes_2025-09-10.pdf | 14_Fire_Protection_and_Building_Safety | Hygiene FPD |
+| 2025-10-03 | 2025-10-03_MSHA_Accident_Record_220253170469_Lyons_Coal_Mill_Fire.csv | 14_Fire_Protection_and_Building_Safety | MSHA 0500344 (Lyons plant) |
+| 2025-10-08 | HFPD_Board_Minutes_2025-10-08.pdf | 14_Fire_Protection_and_Building_Safety | Hygiene FPD |
+| 2025-11-12 | HFPD_Board_Minutes_2025-11-12.pdf | 14_Fire_Protection_and_Building_Safety | Hygiene FPD |
+| 2025-12-10 | HFPD_Board_Minutes_2025-12-10.pdf | 14_Fire_Protection_and_Building_Safety | Hygiene FPD |
 | 2026-01-09 | 2025_PT0658_AR_2026JAN09.pdf | Z_Related_Other_CEMEX_Mines | PT0658 (Wyoming) |
+| 2026-01-14 | HFPD_Board_Minutes_2026-01-14.pdf | 14_Fire_Protection_and_Building_Safety | Hygiene FPD |
+| 2026-01-15 | 2026-01-15_BOCC_Staff_Report_DC-25-0003_Land_Use_Code_Text_Amendments_pp1-45.pdf | 14_Fire_Protection_and_Building_Safety | DC-25-0003 (Boulder County) |
 | 2026-03-02 | 2026_PT0658_AR_2026MAR02_Under Review.pdf | Z_Related_Other_CEMEX_Mines | PT0658 (Wyoming) |
+| 2026-03-03 | 2026-03-03_Clear_Creek_County_Res_R-26-24_Unsafe_Structure.pdf | 14_Fire_Protection_and_Building_Safety | Clear Creek County |
+| 2026-03-11 | HFPD_Board_Minutes_2026-03-11.pdf | 14_Fire_Protection_and_Building_Safety | Hygiene FPD |
 | 2026-04-27 | APEN_2026-04-27_p2_data_year_2025_OnBase-63749814.png | 05_Air_Quality_Permit_95OPBO082 | 95OPBO082 (air permit) |
 | 2026-04-27 | APEN_2026-04-27_p3_data_year_2025_OnBase-63749814.png | 05_Air_Quality_Permit_95OPBO082 | 95OPBO082 (air permit) |
 | 2026-04-27 | APEN_2026-04-27_p5_data_year_2025_OnBase-63749814.png | 05_Air_Quality_Permit_95OPBO082 | 95OPBO082 (air permit) |
 | 2026-09-00 | 2026-09_to_2026-10_Plant_Status_Timeline.md | 13_2026_Plant_Status_and_Layoffs | M-1977-208 (Lyons mine) |
+| 2026-09-23 | Boulder_County_Assessor_Extract_CEMEX_Plant_Parcel_Tax_Areas_2026-09-23.csv | 14_Fire_Protection_and_Building_Safety | Boulder County |
 | 2026-09-25 | Public_Records_Monitoring_Log_2026-09-25_to_2026-10-01.md | 13_2026_Plant_Status_and_Layoffs | M-1977-208 (Lyons mine) |
 | 2026-09-26 | P050_Rail_Unloader_Throughput_Analysis_2026-09-26.md | 05_Air_Quality_Permit_95OPBO082 | 95OPBO082 (air permit) |
 | 2026-09-26 | Bennett_Denver_Terminal_Origin_2026-09-26.md | 08_Operational_History_and_Traffic | AIRS 001-2353 (Bennett terminal) |

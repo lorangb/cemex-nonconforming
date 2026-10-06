@@ -1,0 +1,91 @@
+The Gold Vein Limited Liability Co. v. City of Cripple Creek, 973 P.2d 1286 (Colo. App. 1999), No. 97CA1884
+Source: https://law.justia.com/cases/colorado/court-of-appeals/1999/97ca1884-0.html (retrieved 2026-10-05)
+Public court opinion text as published by the source. Headnotes and editorial matter, if any, belong to the source. Check an official reporter before quoting.
+==============================================================================
+
+973 P.2d 1286 (1999)
+
+The GOLD VEIN LIMITED LIABILITY COMPANY, Plaintiff-Appellee and Cross-Appellant,
+v.
+The CITY OF CRIPPLE CREEK, a Colorado municipal corporation, Defendant-Appellant and Cross-Appellee.
+
+No. 97CA1884.
+
+Colorado Court of Appeals, Div. I.
+
+February 18, 1999.
+
+*1287 Flynn McKenna Wright & Karsh, LLC, James T. Flynn, Colorado Springs, Colorado, for Plaintiff-Appellee and Cross-Appellant.
+
+Felt, Houghton & Monson, LLC, Charles T. Houghton, Colorado Springs, Colorado, for Defendant-Appellant and Cross-Appellee.
+
+Opinion by Judge TAUBMAN.
+
+Defendant, City of Cripple Creek, appeals the trial court's summary judgment in favor of plaintiff, The Gold Vein Limited Liability Company (Gold Vein), granting a refund of money it had paid pursuant to a municipal ordinance concerning the abatement of public nuisances. Gold Vein cross-appeals the trial court's determination that Cripple Creek had the authority to place a lien on Gold Vein's property to recoup the expenditures for the abatement. We affirm.
+
+Gold Vein's predecessor in interest demolished a building situated on its property. Once the building was demolished, Gold Vein's predecessor began excavation work that left the foundations of the adjacent buildings exposed. Cripple Creek investigated the situation and determined that, as a result of the excavation, the adjacent buildings had lost lateral and subjacent support, thereby creating a dangerous condition.
+
+Cripple Creek notified Gold Vein's predecessor that the condition was dangerous and in need of repair. When the predecessor failed to comply with Cripple Creek's request to remedy the condition, Cripple Creek, pursuant to its dangerous building abatement ordinance, entered the property and remedied the condition. After Gold Vein's predecessor and the mortgagee of the property failed to pay the amount of the remediation expense incurred, $51,892.78, Cripple Creek filed a statement of lien in that amount.
+
+Later, the holder of the deed of trust foreclosed. Cripple Creek did not redeem but contended that its lien was superior to the lien of the deed of trust. After Gold Vein became the owner of the property and paid, under protest, the sum claimed by Cripple Creek, it commenced this proceeding for a refund.
+
+The trial court first concluded that Cripple Creek, as a "statutory city" pursuant to § 31-1-201, C.R.S.1998, was authorized to charge the cost of the nuisance abatement and collect the expenditure by placing a lien on the property. However, it also determined that Cripple Creek's lien was not a "superpriority lien," and thus, the foreclosure on the property effectively extinguished Cripple Creek's lien. These appeals followed.
+
+Cripple Creek's dangerous building abatement ordinance establishes that buildings determined to be dangerous are public nuisances. Cripple Creek Ordinance 1982-2 (Aug. 2, 1982). At issue here is the section of the ordinance providing that the charge for the abatement "shall be assessed against the property as a special assessment against and a lien upon the property collected in the same manner as other special assessments."
+
+Relying upon §§XX-XX-XXX(1)(c) & XX-XX-XXX, C.R.S.1998, Cripple Creek contends that it is authorized to place a lien on the property to recoup the expenditures for abating a dangerous condition. More specifically, Cripple Creek argues that, whether the money due under the ordinance is described as a tax, a special assessment, or a charge, § 31-20-105 authorized it to impose a "superpriority lien" on Gold Vein's property.
+
+Gold Vein, in turn, argues that, except for one statutorily authorized circumstance (set forth in §§XX-XX-XXX(1)(d)(I) & (II), C.R.S. 1998, authorizing a priority lien for weed, brush, and rubbish removal), a municipality lacks authority to recoup nuisance abatement expenditures as special assessments and assert priority liens against properties on which nuisances are abated.
+
+We agree with Gold Vein that the amount charged here for abatement of the dangerous condition is not a special assessment or tax *1288 and could not be collected as such by Cripple Creek. However, we agree with Cripple Creek's contention that its levy against the property was a charge upon which it could impose a lien. Nevertheless, because the lien on the property does not have priority over the deed of trust lien that was foreclosed, we affirm the trial court's decision.
+
+I. Authority to Promulgate Ordinance
+We first consider Cripple Creek's authority to promulgate the ordinance at issue here.
+
+Section 31-15-401(1)(c) grants municipalities the specific authority "to declare what is a nuisance and abate the same and to impose fines upon parties who may create or continue nuisances or suffer nuisances to exist...."
+
+Section 31-20-105 states:
+
+Any municipality, in addition to the means provided by law, if by ordinance it so elects, may cause any or all delinquent charges, assessments, or taxes made or levied to be certified to the treasurer of the county and be collected and paid over by the treasurer of the county in the same manner as taxes are authorized to be by this title.
+A court's primary task when construing a statute is to give effect to the intent of the General Assembly. To discern such intent, the court should look to the plain language of the statute. Farmers Group, Inc. v. Williams, 805 P.2d 419 (Colo.1991).
+
+If the language of a statute is plain and its meaning is clear, it must be applied as written. Heagney v. Schneider, 677 P.2d 446 (Colo.App.1984).
+
+The language of § 31-15-401(1)(c) is clear. The General Assembly provided municipalities with the authority to abate nuisances and impose fines on the parties who create them. Additionally, because "delinquent charges, taxes, or assessments" may be collected by use of liens, and because "charge" includes fines, pursuant to § 31-20-105, Cripple Creek was authorized to recoup its remediation expenses through liens, provided that Cripple Creek's ordinance provided therefor. See City of Highlands v. Johnson, 24 Colo. 371, 51 P. 1004 (1897) (pursuant to predecessor to § 31-20-105, treasurer has authority to collect delinquent assessment in same manner other taxes are collected).
+
+Cripple Creek contends, and Gold Vein does not dispute, that the funds expended by Cripple Creek constituted a "charge." Therefore, Cripple Creek was authorized under § 31-20-105 to impose a lien upon the property for the sums expended. Accordingly, the trial court did not err in determining that Cripple Creek had authority to promulgate the ordinance and impose a lien upon the property.
+
+II. Expenditure as Special Assessment
+Cripple Creek contends that its charge for remediation constituted a special assessment that granted the lien a priority status. We disagree.
+
+There are several measures for generating revenue available to a municipality. Common among those measures are an ad valorem tax, an excise tax, a special assessment, and a special fee. Bloom v. City of Fort Collins, 784 P.2d 304 (Colo.1989).
+
+The ordinance at issue here refers to the expenditures for nuisance abatements as special assessments. However, the mere fact that the ordinance attempts to classify the expenditure as a special assessment does not necessarily make it one.
+
+A special assessment is a measure used by municipalities to finance local public improvements. Pomroy v. Board of Public Waterworks, 55 Colo. 476, 136 P. 78 (1913). Examples of such improvements are street pavements, sidewalks, water mains, sewer mains, and street lighting. See Bloom v. City of Fort Collins, supra (Lohr, J. dissenting).
+
+Revenues generated from a special assessment must be "used and confined to payment for the capital improvement resulting in an equivalent benefit to plaintiffs' properties." Ochs v. Town of Hot Sulphur Springs, 158 Colo. 456, 460, 407 P.2d 677, 679 (1965). Further, the amount assessed must be based not on the cost of the improvement, but on the increased value of the property. *1289 See Pomroy v. Board of Public Waterworks, supra.
+
+Here, the work done to remedy the dangerous condition was performed on property owned by Gold Vein's predecessor. The improvements were made in order to make the foundations of the adjacent properties safe after they had been rendered unsafe by the demolition and excavation of the building on the property at issue.
+
+Nevertheless, the lien imposed was not based on any increase in value to the property at issue. Rather, the lien was calculated to reimburse Cripple Creek for the cost of its repairs to the property at issue plus interest. Indeed, no evidence was presented that the repairs had increased the value of the property. Thus, consistent with the reasoning in Ochs v. Town of Hot Sulphur Springs, supra, we hold that the reimbursement for the abatement was not a special assessment. Cf. Reams v. City of Grand Junction, 676 P.2d 1189 (Colo.1984)(city appraiser's opinion that plaintiff's property was benefited by improvements was sufficient to support conclusion that property benefited, even though appraiser could not specify amount of increase in value).
+
+Because the lien was not one imposed for a special assessment, it follows that its priority, if any, cannot be based upon such a status.
+
+With respect to the contention that the expenditure was an excise tax or a special fee, we decline to address Cripple Creek's assertion because it raised this issue for the first time in its reply brief. See People v. Czemerynski, 786 P.2d 1100 (Colo.1990).
+
+III. Priority of Lien
+Cripple Creek contends that, contrary to the trial court's ruling, the language in § 31-20-105, "collected and paid over by the treasurer of the county in the same manner as other taxes are authorized by this title," does make its lien a "superpriority lien." Therefore, it contends, its lien takes priority over the lien of the deed of trust that was foreclosed. We are not persuaded.
+
+As noted above, the General Assembly specifically provided authority for a municipality to impose priority liens only in the area of weed, brush, and rubbish removal. Section 31-15-401(1)(d)(I) & (II). Consequently, there is no express statutory authority for Cripple Creek to impose a "superpriority lien" for the abatement of nuisances.
+
+If the General Assembly had wanted to grant municipalities broad authority to collect all nuisance abatement charges with a priority lien similar to that provided for in § 31-15-401(1)(d)(I) & (II), it could have done so, as Gold Vein suggests, by amending the statute. Absent statutory authority, a "superpriority lien" will not be inferred. Rather, if such a "superpriority lien" is to be imposed, it must be done expressly by the General Assembly. See City and County of Denver v. Sweet, 138 Colo. 41, 329 P.2d 441 (1958) (authority to tax strictly construed against taxing authority).
+
+As the trial court reasoned:
+
+A `superpriority lien' is an extraordinary lien that displaces the lien priority structure and interferes with the statutory foreclosure process that is designed to extinguish redemption rights and transfer unencumbered title to the purchaser. Requiring [Cripple Creek] to participate in the foreclosure process or face the extinguishment of its lien will enable [Cripple Creek] to recoup its loss while at the same time preserving the integrity of the statutory foreclosure process.
+Moreover, even if we assume, as Cripple Creek argues, that the charges for the nuisance abatement can be collected "in the same manner as other taxes," pursuant to § 31-20-105, it does not necessarily follow that a lien based on a charge receives the same priority as a tax lien. "In the same manner" refers to the procedure to be used to collect upon the lien, not to the priority to be given to the lien. Therefore, we conclude the trial court properly determined that Cripple Creek's lien was extinguished by the foreclosure proceeding.
+
+Judgment affirmed.
+
+Judge METZGER and Judge CASEBOLT, concur.

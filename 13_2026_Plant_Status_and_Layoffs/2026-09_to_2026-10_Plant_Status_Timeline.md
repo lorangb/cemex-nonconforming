@@ -40,10 +40,11 @@ This note records what the documents say. It draws no conclusion about whether t
 | 1/15/2027 | MSHA Q4 2026 filing due (would include any layoffs effective 11/21) | Inference from the dates above | MSHA |
 | 4/15/2027 | MSHA Q1 2027 filing due (first full quarter after 11/21) | Inference | MSHA |
 
-## D. Context documented earlier in 2026
+## D. Context documented earlier (October 2025 to August 2026)
 
 | Date | Event | Source |
 |---|---|---|
+| 10/3/2025 | Fire on the Lyons plant coal mill line; no injuries. Per MSHA, the Hygiene Fire Dept. was called at 9:44 am and arrived at 9:56 am; MSHA visited 10/6/2025. Hygiene FPD minutes of 10/8/2025: the Chief "reviews fire at Cemex" and plans a walk-through "with Lyons and Lefthand at Cemex for any future incidents." | MSHA accident record 220253170469; Hygiene FPD minutes 10/8/2025; see `14_Fire_Protection_and_Building_Safety/` |
 | 1/12/2026 | Arcosa Boulder shale plant (a documented shale supplier to Lyons through at least 3/2025) goes idle; MSHA status "Intermittent" as of 7/22/2026 | CDPHE semiannual report filed 7/29/2026; MSHA Mines.txt; see `Z_Related_Other_CEMEX_Mines/Arcosa_M1988108/` |
 | 4/27/2026 | CEMEX files APEN updates for the kiln (P007) and the rail cement unloader (P050) | CDPHE OnBase; see `05_Air_Quality_Permit_95OPBO082/P050_Rail_Unloader_Analysis/` |
 | 5/11/2026 | CDPHE Compliance Order on Consent, Case 2025-168, $855,000 | CDPHE; `Penalties_vs_US_Cement_Portfolio` note in `11_Reference_and_Research/Comparison_Plants/` |
