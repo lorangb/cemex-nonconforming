@@ -371,6 +371,7 @@ Dates ending in `-00` mean only the month or year is known. Verify against the d
 | 2024-10-09 | HFPD_Board_Minutes_2024-10-09.pdf | 14_Fire_Protection_and_Building_Safety | Hygiene FPD |
 | 2024-11-07 | 2024-11-07 Cemex letter to BOCO.pdf | 06_Boulder_County_Land_Use | ZON-23-0003 |
 | 2024-11-21 | 2024-11-21_REVISION - M1977208.pdf | 03_State_Mining_Permit_M1977208 | M-1977-208 (Lyons mine) |
+| 2024-12-03 | 2024-12-03_CDPHE_OnBase_COR425765_NORCO_Terminal_record.pdf | 08_Operational_History_and_Traffic | NorCo terminal (Mountain Cement, Evans) |
 | 2024-12-05 | 2024-12-05_REVISION - M1977208.pdf | 03_State_Mining_Permit_M1977208 | M-1977-208 (Lyons mine) |
 | 2025-00-00 | CEMEX airphoto study report 2025.pages | 08_Operational_History_and_Traffic |  |
 | 2025-00-00 | CEMEX airphoto study report 2025.pdf | 08_Operational_History_and_Traffic |  |
@@ -384,6 +385,7 @@ Dates ending in `-00` mean only the month or year is known. Verify against the d
 | 2025-12-10 | HFPD_Board_Minutes_2025-12-10.pdf | 14_Fire_Protection_and_Building_Safety | Hygiene FPD |
 | 2026-01-09 | 2025_PT0658_AR_2026JAN09.pdf | Z_Related_Other_CEMEX_Mines | PT0658 (Wyoming) |
 | 2026-01-14 | HFPD_Board_Minutes_2026-01-14.pdf | 14_Fire_Protection_and_Building_Safety | Hygiene FPD |
+| 2026-01-14 | 2026-01-14_Weld_Assessor_Photo_R8992497_silos.jpg | 08_Operational_History_and_Traffic | NorCo terminal (Mountain Cement, Evans) |
 | 2026-01-15 | 2026-01-15_BOCC_Staff_Report_DC-25-0003_Land_Use_Code_Text_Amendments_pp1-45.pdf | 14_Fire_Protection_and_Building_Safety | DC-25-0003 (Boulder County) |
 | 2026-03-02 | 2026_PT0658_AR_2026MAR02_Under Review.pdf | Z_Related_Other_CEMEX_Mines | PT0658 (Wyoming) |
 | 2026-03-03 | 2026-03-03_Clear_Creek_County_Res_R-26-24_Unsafe_Structure.pdf | 14_Fire_Protection_and_Building_Safety | Clear Creek County |
@@ -391,7 +393,20 @@ Dates ending in `-00` mean only the month or year is known. Verify against the d
 | 2026-04-27 | APEN_2026-04-27_p2_data_year_2025_OnBase-63749814.png | 05_Air_Quality_Permit_95OPBO082 | 95OPBO082 (air permit) |
 | 2026-04-27 | APEN_2026-04-27_p3_data_year_2025_OnBase-63749814.png | 05_Air_Quality_Permit_95OPBO082 | 95OPBO082 (air permit) |
 | 2026-04-27 | APEN_2026-04-27_p5_data_year_2025_OnBase-63749814.png | 05_Air_Quality_Permit_95OPBO082 | 95OPBO082 (air permit) |
+| 2026-06-02 | 2026-06-02_Weld_Assessor_Sketch_R8992497_Imp1_building_2121sf.jpg | 08_Operational_History_and_Traffic | NorCo terminal (Mountain Cement, Evans) |
+| 2026-06-02 | 2026-06-02_Weld_Assessor_Sketch_R8992497_Imp2_silo_40ft_3000t.jpg | 08_Operational_History_and_Traffic | NorCo terminal (Mountain Cement, Evans) |
+| 2026-06-02 | 2026-06-02_Weld_Assessor_Sketch_R8992497_Imp4_silo_32ft_1200t.jpg | 08_Operational_History_and_Traffic | NorCo terminal (Mountain Cement, Evans) |
+| 2026-06-03 | 2026-06-03_Weld_Assessor_Photo_R8992497_building.jpg | 08_Operational_History_and_Traffic | NorCo terminal (Mountain Cement, Evans) |
+| 2026-07-21 | 2026-07-21_EPS_ROW_Dedication_Request_Case_26-AP-01.pdf | 08_Operational_History_and_Traffic | NorCo terminal (Mountain Cement, Evans) |
+| 2026-08-18 | 2026-08-18_Evans_Council_Minutes_excerpt_MCC_items.pdf | 08_Operational_History_and_Traffic | NorCo terminal (Mountain Cement, Evans) |
+| 2026-08-18 | 2026-08-18_Evans_Development_Agreement_MCC_Transloading_Facility_NorCo_Terminal.pdf | 08_Operational_History_and_Traffic | NorCo terminal (Mountain Cement, Evans) |
+| 2026-08-18 | 2026-08-18_Evans_Draft_MCC_Minor_Subdivision_First_Replat.pdf | 08_Operational_History_and_Traffic | NorCo terminal (Mountain Cement, Evans) |
+| 2026-08-18 | 2026-08-18_Evans_Ordinance_869-26_ROW_MCC_First_Replat.pdf | 08_Operational_History_and_Traffic | NorCo terminal (Mountain Cement, Evans) |
+| 2026-08-18 | 2026-08-18_Evans_Staff_Report_MCC_Development_Agreement.pdf | 08_Operational_History_and_Traffic | NorCo terminal (Mountain Cement, Evans) |
+| 2026-08-18 | 2026-08-18_Evans_Staff_Report_Ord_869-26_ROW_MCC_First_Replat_1st_Reading.pdf | 08_Operational_History_and_Traffic | NorCo terminal (Mountain Cement, Evans) |
 | 2026-09-00 | 2026-09_to_2026-10_Plant_Status_Timeline.md | 13_2026_Plant_Status_and_Layoffs | M-1977-208 (Lyons mine) |
+| 2026-09-01 | 2026-09-01_Evans_Council_Minutes_excerpt_Ord_869-26.pdf | 08_Operational_History_and_Traffic | NorCo terminal (Mountain Cement, Evans) |
+| 2026-09-01 | 2026-09-01_Evans_Staff_Report_Ord_869-26_2nd_Reading.pdf | 08_Operational_History_and_Traffic | NorCo terminal (Mountain Cement, Evans) |
 | 2026-09-23 | Boulder_County_Assessor_Extract_CEMEX_Plant_Parcel_Tax_Areas_2026-09-23.csv | 14_Fire_Protection_and_Building_Safety | Boulder County |
 | 2026-09-25 | Public_Records_Monitoring_Log_2026-09-25_to_2026-10-01.md | 13_2026_Plant_Status_and_Layoffs | M-1977-208 (Lyons mine) |
 | 2026-09-26 | P050_Rail_Unloader_Throughput_Analysis_2026-09-26.md | 05_Air_Quality_Permit_95OPBO082 | 95OPBO082 (air permit) |
@@ -406,3 +421,4 @@ Dates ending in `-00` mean only the month or year is known. Verify against the d
 | 2026-09-30 | Larimer_Quarry_Tonnage_Analysis_2026-09-30.md | Z_Related_Other_CEMEX_Mines | M-1977-341 (Larimer) |
 | 2026-09-30 | Lyons_Raw_Material_Sourcing_Weaver_Limestone_and_Shale_2026-09-30.md | Z_Related_Other_CEMEX_Mines | PT0658 (Wyoming) |
 | 2026-09-30 | Lyons_Shale_Haul_Cost_Sensitivity_ESTIMATE_2026-09-30.csv | Z_Related_Other_CEMEX_Mines | PT0658 (Wyoming) |
+| 2026-10-06 | 2026-10-06_Public_Records_Extract_Weld_Assessor_and_EPA_ECHO.md | 08_Operational_History_and_Traffic | NorCo terminal (Mountain Cement, Evans) |

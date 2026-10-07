@@ -8,4 +8,6 @@ the nonconforming use and to truck traffic):
 - **MSHA_Federal_Mine_Safety_Record/** — federal MSHA inspection, violation, penalty, accident and
   employment data for the Lyons Cement Plant (mine 0500344), 2015–2026, with an analysis memo.
 - **Front_Range_Cement_Terminals/** — notes on CEMEX and Mountain Cement (Eagle Materials) cement
-  terminals serving Colorado, including the Bennett/Denver terminal.
+  terminals serving Colorado, including the Bennett/Denver terminal. Its **NorCo_Evans_Terminal/** subfolder
+  holds public records on the Mountain Cement Northern Colorado terminal in Evans: the Aug 18, 2026 Development
+  Agreement, Ord. 869-26, Weld Assessor photos and sketches, and CDPHE stormwater certification COR425765.

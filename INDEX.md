@@ -1,6 +1,6 @@
 # Document Index
 
-684 documents. See `INDEX.csv` for the sortable version.
+702 documents. See `INDEX.csv` for the sortable version.
 
 ## 02_Nonconforming_Use_Evidence
 
@@ -437,6 +437,24 @@
 | 2026-09-26 | Bennett_Denver_Terminal_Origin_2026-09-26.md | Front_Range_Cement_Terminals | Analysis | AIRS 001-2353 (Bennett terminal) |
 | 2026-09-26 | Eagle_Mountain_Cement_Colorado_Terminal_Timing_2026-09-26.md | Front_Range_Cement_Terminals | Analysis | AIRS 031-0178 (Mountain Cement Denver) |
 | 2026-09-26 | Front_Range_Cement_Terminals_2026-09-26.md | Front_Range_Cement_Terminals | Analysis | Colorado cement terminals |
+|  | README.md | Front_Range_Cement_Terminals | Document | Colorado cement terminals |
+| 2024-12-03 | 2024-12-03_CDPHE_OnBase_COR425765_NORCO_Terminal_record.pdf | Front_Range_Cement_Terminals/NorCo_Evans_Terminal | Permit | NorCo terminal (Mountain Cement, Evans) |
+| 2026-01-14 | 2026-01-14_Weld_Assessor_Photo_R8992497_silos.jpg | Front_Range_Cement_Terminals/NorCo_Evans_Terminal | Photo | NorCo terminal (Mountain Cement, Evans) |
+| 2026-06-02 | 2026-06-02_Weld_Assessor_Sketch_R8992497_Imp1_building_2121sf.jpg | Front_Range_Cement_Terminals/NorCo_Evans_Terminal | Sketch | NorCo terminal (Mountain Cement, Evans) |
+| 2026-06-02 | 2026-06-02_Weld_Assessor_Sketch_R8992497_Imp2_silo_40ft_3000t.jpg | Front_Range_Cement_Terminals/NorCo_Evans_Terminal | Sketch | NorCo terminal (Mountain Cement, Evans) |
+| 2026-06-02 | 2026-06-02_Weld_Assessor_Sketch_R8992497_Imp4_silo_32ft_1200t.jpg | Front_Range_Cement_Terminals/NorCo_Evans_Terminal | Sketch | NorCo terminal (Mountain Cement, Evans) |
+| 2026-06-03 | 2026-06-03_Weld_Assessor_Photo_R8992497_building.jpg | Front_Range_Cement_Terminals/NorCo_Evans_Terminal | Photo | NorCo terminal (Mountain Cement, Evans) |
+| 2026-07-21 | 2026-07-21_EPS_ROW_Dedication_Request_Case_26-AP-01.pdf | Front_Range_Cement_Terminals/NorCo_Evans_Terminal | Letter | NorCo terminal (Mountain Cement, Evans) |
+| 2026-08-18 | 2026-08-18_Evans_Council_Minutes_excerpt_MCC_items.pdf | Front_Range_Cement_Terminals/NorCo_Evans_Terminal | Minutes | NorCo terminal (Mountain Cement, Evans) |
+| 2026-08-18 | 2026-08-18_Evans_Development_Agreement_MCC_Transloading_Facility_NorCo_Terminal.pdf | Front_Range_Cement_Terminals/NorCo_Evans_Terminal | Agreement | NorCo terminal (Mountain Cement, Evans) |
+| 2026-08-18 | 2026-08-18_Evans_Draft_MCC_Minor_Subdivision_First_Replat.pdf | Front_Range_Cement_Terminals/NorCo_Evans_Terminal | Plat | NorCo terminal (Mountain Cement, Evans) |
+| 2026-08-18 | 2026-08-18_Evans_Ordinance_869-26_ROW_MCC_First_Replat.pdf | Front_Range_Cement_Terminals/NorCo_Evans_Terminal | Ordinance | NorCo terminal (Mountain Cement, Evans) |
+| 2026-08-18 | 2026-08-18_Evans_Staff_Report_MCC_Development_Agreement.pdf | Front_Range_Cement_Terminals/NorCo_Evans_Terminal | Staff report | NorCo terminal (Mountain Cement, Evans) |
+| 2026-08-18 | 2026-08-18_Evans_Staff_Report_Ord_869-26_ROW_MCC_First_Replat_1st_Reading.pdf | Front_Range_Cement_Terminals/NorCo_Evans_Terminal | Staff report | NorCo terminal (Mountain Cement, Evans) |
+| 2026-09-01 | 2026-09-01_Evans_Council_Minutes_excerpt_Ord_869-26.pdf | Front_Range_Cement_Terminals/NorCo_Evans_Terminal | Minutes | NorCo terminal (Mountain Cement, Evans) |
+| 2026-09-01 | 2026-09-01_Evans_Staff_Report_Ord_869-26_2nd_Reading.pdf | Front_Range_Cement_Terminals/NorCo_Evans_Terminal | Staff report | NorCo terminal (Mountain Cement, Evans) |
+| 2026-10-06 | 2026-10-06_Public_Records_Extract_Weld_Assessor_and_EPA_ECHO.md | Front_Range_Cement_Terminals/NorCo_Evans_Terminal | Data | NorCo terminal (Mountain Cement, Evans) |
+|  | README.md | Front_Range_Cement_Terminals/NorCo_Evans_Terminal | Document | NorCo terminal (Mountain Cement, Evans) |
 | 2023-00-00 | CEMEX Plant Upgrade Research 08.2023 - Google Docs.pdf | GNL_Submissions_to_County | Document |  |
 | 1997-00-00 | The 1997-2000 Lyons Plant Expansion Project w Links Working.pdf | GNL_Submissions_to_County | Document |  |
 |  | sarahlorang_e_mail_4_11_23.pdf | GNL_Submissions_to_County | Document |  |

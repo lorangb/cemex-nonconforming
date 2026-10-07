@@ -2,6 +2,8 @@
 *Research date: Sat Sep 26, 2026. All times Mountain Time (MT). Public sources only.*
 *Convention: **VERIFIED** = seen in a primary or near-primary document (URL or doc ID given). **ESTIMATE** = inference, with the reasoning stated; estimates are not facts.*
 
+> **Update 2026-10-06:** Additional public records on the NorCo terminal are in `NorCo_Evans_Terminal/`. They include CDPHE construction-stormwater certification COR425765 "NORCO TERMINAL" (effective 11/05/2024, permittee Eagle Materials Inc.), Weld County Assessor photos dated 01/14/2026 (two silos erected) and 06/03/2026 (building enclosed), and Assessor sketches for the 2027 tax year (two 40-ft and two 32-ft × 135-ft silos plus a 2,121-sf building).
+
 ---
 ## 0. Bottom line
 | Item | Status (verified) | Estimated operational / arrival (ESTIMATE) | Confidence |

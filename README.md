@@ -25,7 +25,7 @@ of an appeal to the Boulder County **Board of Adjustment**.
 | `05_Air_Quality_Permit_95OPBO082` | Title V air permit: permits, technical reviews, inspections, stack tests, emissions data, and a P050 rail-unloader throughput analysis. |
 | `06_Boulder_County_Land_Use` | County proceedings: SU-22-0003, the ZON-23-0003 structural-enlargement matter, the Z-23-0002 rezoning, Land Use Code, Comprehensive Plan & IGAs. |
 | `07_EPA_Clean_Air_Act_Case` | The federal Clean Air Act lawsuit against CEMEX: pleadings, expert reports, exhibits, 2013 consent decree. |
-| `08_Operational_History_and_Traffic` | Operational-baseline and traffic record, incl. GNL's 2024 amicus brief and CEMEX's responses, MSHA federal mine-safety data, and Front Range cement-terminal notes. |
+| `08_Operational_History_and_Traffic` | Operational-baseline and traffic record, incl. GNL's 2024 amicus brief and CEMEX's responses, MSHA federal mine-safety data, and Front Range cement-terminal notes and records (incl. the Mountain Cement NorCo terminal in Evans). |
 | `09_Correspondence` | DRMS, zoning, and County correspondence. |
 | `11_Reference_and_Research` | Cement kiln dust, emissions/health, comparison plants (incl. a Lyons-vs-CEMEX-portfolio penalties comparison), CEMEX corporate, historical, and SOSVV materials, and public court opinions on unsafe-building and demolition orders (`Legal_Reference_Unsafe_Structures/`). |
 | `12_Presentations` | The public legal-brief decks (PPTX/PDF), the rescission-appeal video and audio, and supporting graphics. |
