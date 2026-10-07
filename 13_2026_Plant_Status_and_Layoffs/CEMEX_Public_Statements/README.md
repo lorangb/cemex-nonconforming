@@ -7,3 +7,10 @@
 - **Status:** Documented (CEMEX's on-the-record statement, as relayed by the reporter).
 - **What the statement does and doesn't say:** It doesn't give a head count. It doesn't mention the kiln, cement production, closure or a terminal conversion. It is consistent with the 9/22/2026 employee letter, which says layoffs are part of a "staff rebalancing" and are expected to commence 11/21/2026.
 - **Left out:** the reporter's own remarks, the earlier messages in the thread (including a private tip), signatures, personal contact details, and the CEMEX logo image.
+
+## 9/22/2026: CEMEX letter to Lyons plant employees
+- **File:** `2026-09-22_CEMEX_Letter_to_Lyons_Employees_Layoffs_Commence_2026-11-21.jpg`. This is a photograph of the printed letter, supplied by a recipient's household and received 10/3/2026.
+- **From:** Cemex Construction Materials South, LLC, signed by a Vice President. It is addressed "Dear Employee" and names no individual recipient.
+- **Text (verbatim):** "Cemex Construction Materials South, LLC ("Cemex") is conducting layoffs as part of a staff rebalancing. The layoffs effective dates are expected to commence on November 21, 2026 and your employment end will be communicated to you as the rebalancing proceeds." The letter directs questions to a CEMEX human-resources contact.
+- **Status:** Documented.
+- **What the letter doesn't say:** It gives no head count. It doesn't mention the kiln, closure, a terminal, or the WARN Act.

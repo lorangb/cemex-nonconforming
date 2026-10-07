@@ -408,6 +408,7 @@ Dates ending in `-00` mean only the month or year is known. Verify against the d
 | 2026-09-01 | 2026-09-01_Evans_Council_Minutes_excerpt_Ord_869-26.pdf | 08_Operational_History_and_Traffic | NorCo terminal (Mountain Cement, Evans) |
 | 2026-09-01 | 2026-09-01_Evans_Staff_Report_Ord_869-26_2nd_Reading.pdf | 08_Operational_History_and_Traffic | NorCo terminal (Mountain Cement, Evans) |
 | 2026-09-23 | Boulder_County_Assessor_Extract_CEMEX_Plant_Parcel_Tax_Areas_2026-09-23.csv | 14_Fire_Protection_and_Building_Safety | Boulder County |
+| 2026-09-22 | 2026-09-22_CEMEX_Letter_to_Lyons_Employees_Layoffs_Commence_2026-11-21.jpg | 13_2026_Plant_Status_and_Layoffs | CEMEX Lyons |
 | 2026-09-23 | 2026-09-23_CEMEX_Statement_to_Colorado_Sun_Randy_Stuart.png | 13_2026_Plant_Status_and_Layoffs | CEMEX Lyons |
 | 2026-09-25 | Public_Records_Monitoring_Log_2026-09-25_to_2026-10-01.md | 13_2026_Plant_Status_and_Layoffs | M-1977-208 (Lyons mine) |
 | 2026-09-26 | P050_Rail_Unloader_Throughput_Analysis_2026-09-26.md | 05_Air_Quality_Permit_95OPBO082 | 95OPBO082 (air permit) |
