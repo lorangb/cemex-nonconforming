@@ -4,6 +4,7 @@ Public-record material on the status of the CEMEX Lyons cement plant after the S
 
 ## Contents
 - `2026-09_to_2026-10_Plant_Status_Timeline.md` - Sept-Oct 2026 events, each line with its source and verification status.
+- `CEMEX_Public_Statements/` - CEMEX's 9/23/2026 on-the-record statement to The Colorado Sun (rendered image and transcription).
 - `Public_Records_Monitoring_Log/` - log of four public-records checks, 9/25-10/1/2026.
 
 ## Related analysis filed elsewhere in the repository
