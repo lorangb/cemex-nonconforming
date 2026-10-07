@@ -20,3 +20,5 @@ Public-record material on the status of the CEMEX Lyons cement plant after the S
 | Fire district covering the plant (Hygiene FPD), fire codes, the 10/3/2025 coal-mill fire record, and Hygiene FPD minutes mentioning CEMEX | `14_Fire_Protection_and_Building_Safety/` |
 
 Ground rules are in `CONTRIBUTING.md`: primary sources, provenance, nothing private or personally identifying.
+
+- `Reported_Social_and_Web_Posts/`: public X and website posts about the layoffs (Reported, not independently verified).
