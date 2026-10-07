@@ -22,3 +22,5 @@ Public-record material on the status of the CEMEX Lyons cement plant after the S
 Ground rules are in `CONTRIBUTING.md`: primary sources, provenance, nothing private or personally identifying.
 
 - `Reported_Social_and_Web_Posts/`: public X and website posts about the layoffs (Reported, not independently verified).
+
+- `WARN_Notice/`: CEMEX's 9/22/2026 WARN Act notice to the state and the Boulder BOCC: at least 70 employees, first layoff 11/21/2026 (Documented; contact details redacted).
