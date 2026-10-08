@@ -14,4 +14,4 @@ It doesn't mention the kiln, production, closure, or a terminal.
 
 **Redaction:** the CEMEX contact person's name, phone number and email address are blacked out. Nothing else is altered.
 
-**Context (Documented):** MSHA's latest quarterly filing (2026 Q2) lists 113 employees at the Lyons plant, so at least 70 is about 62% or more of that headcount. Through 10/1/2026, the CDLE public WARN list showed no CEMEX entry (see `../Public_Records_Monitoring_Log/`).
+**Context (Documented):** MSHA's latest quarterly filing (2026 Q2) lists 113 employees at the Lyons plant, so at least 70 is about 62% or more of that headcount. Through 10/1/2026, the CDLE public WARN list showed no CEMEX entry (see `../Public_Records_Monitoring_Log/`). As of 10/8/2026 it shows one: received 10/7/26, 70 permanent layoffs, reason "Staff Rebalancing at Lyons Cement Plant". The sheet's begin date (11/2/26) differs from the letter's 11/21/2026. The letter CDLE links to has the same text as this one (linked from https://cdle.colorado.gov/employers/layoff-separations/layoff-warn-list) (Documented).

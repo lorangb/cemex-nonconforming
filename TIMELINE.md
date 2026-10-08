@@ -410,6 +410,7 @@ Dates ending in `-00` mean only the month or year is known. Verify against the d
 | 2026-09-23 | Boulder_County_Assessor_Extract_CEMEX_Plant_Parcel_Tax_Areas_2026-09-23.csv | 14_Fire_Protection_and_Building_Safety | Boulder County |
 | 2026-09-22 | 2026-09-22_CEMEX_Letter_to_Lyons_Employees_Layoffs_Commence_2026-11-21.jpg | 13_2026_Plant_Status_and_Layoffs | CEMEX Lyons |
 | 2026-09-22 | 2026-09-22_CEMEX_WARN_Act_Notice_to_CDLE_and_Boulder_BOCC_70_Employees_2026-11-21.pdf (at least 70 employees; first layoff 11/21/2026) | 13_2026_Plant_Status_and_Layoffs | CEMEX Lyons |
+| 2026-10-07 | Colorado CDLE public WARN list posts the CEMEX Lyons notice (received 10/7/26; 70 permanent; listed begin date 11/2/26 vs. 11/21/2026 in the letter) | 13_2026_Plant_Status_and_Layoffs | CEMEX Lyons |
 | 2026-09-23 | 2026-09-23_CEMEX_Statement_to_Colorado_Sun_Randy_Stuart.png | 13_2026_Plant_Status_and_Layoffs | CEMEX Lyons |
 | 2026-09-23 | 2026-09-23_to_2026-10-03_Reported_Posts_Layoffs.md | 13_2026_Plant_Status_and_Layoffs | CEMEX Lyons (Reported, unverified) |
 | 2026-10-07 | 2026-10-07_Colorado_Sun_Cemex_Lyons_WARN_70_Layoffs.md (county confirms WARN filed 9/22) | 13_2026_Plant_Status_and_Layoffs | CEMEX Lyons (news) |
