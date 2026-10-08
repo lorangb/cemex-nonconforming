@@ -24,3 +24,4 @@ Ground rules are in `CONTRIBUTING.md`: primary sources, provenance, nothing priv
 - `Reported_Social_and_Web_Posts/`: public X and website posts about the layoffs (Reported, not independently verified).
 
 - `WARN_Notice/`: CEMEX's 9/22/2026 WARN Act notice to the state and the Boulder BOCC: at least 70 employees, first layoff 11/21/2026 (Documented; contact details redacted).
+- `News_Coverage/`: press coverage, starting with the Colorado Sun 10/7/2026 article on the WARN notice (Reported).

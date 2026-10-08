@@ -412,6 +412,7 @@ Dates ending in `-00` mean only the month or year is known. Verify against the d
 | 2026-09-22 | 2026-09-22_CEMEX_WARN_Act_Notice_to_CDLE_and_Boulder_BOCC_70_Employees_2026-11-21.pdf (at least 70 employees; first layoff 11/21/2026) | 13_2026_Plant_Status_and_Layoffs | CEMEX Lyons |
 | 2026-09-23 | 2026-09-23_CEMEX_Statement_to_Colorado_Sun_Randy_Stuart.png | 13_2026_Plant_Status_and_Layoffs | CEMEX Lyons |
 | 2026-09-23 | 2026-09-23_to_2026-10-03_Reported_Posts_Layoffs.md | 13_2026_Plant_Status_and_Layoffs | CEMEX Lyons (Reported, unverified) |
+| 2026-10-07 | 2026-10-07_Colorado_Sun_Cemex_Lyons_WARN_70_Layoffs.md (county confirms WARN filed 9/22) | 13_2026_Plant_Status_and_Layoffs | CEMEX Lyons (news) |
 | 2026-09-25 | Public_Records_Monitoring_Log_2026-09-25_to_2026-10-01.md | 13_2026_Plant_Status_and_Layoffs | M-1977-208 (Lyons mine) |
 | 2026-09-26 | P050_Rail_Unloader_Throughput_Analysis_2026-09-26.md | 05_Air_Quality_Permit_95OPBO082 | 95OPBO082 (air permit) |
 | 2026-09-26 | Bennett_Denver_Terminal_Origin_2026-09-26.md | 08_Operational_History_and_Traffic | AIRS 001-2353 (Bennett terminal) |

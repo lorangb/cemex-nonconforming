@@ -536,6 +536,7 @@
 | 2026-09-23 | 2026-09-23_CEMEX_Statement_to_Colorado_Sun_Randy_Stuart.png | CEMEX_Public_Statements | Statement | CEMEX Lyons |
 | 2026-09-23 | 2026-09-23_to_2026-10-03_Reported_Posts_Layoffs.md | Reported_Social_and_Web_Posts | Reported (unverified) | CEMEX Lyons |
 | 2026-09-25 | Public_Records_Monitoring_Log_2026-09-25_to_2026-10-01.md | Public_Records_Monitoring_Log | Log | M-1977-208 (Lyons mine) |
+| 2026-10-07 | 2026-10-07_Colorado_Sun_Cemex_Lyons_WARN_70_Layoffs.md | News_Coverage | News (Reported) | CEMEX Lyons |
 
 ## 14_Fire_Protection_and_Building_Safety
 
