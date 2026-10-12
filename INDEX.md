@@ -789,3 +789,4 @@
 | 2008-06-16 | BP-08-0871_2008_Dust_Collector_Unloading_System.pdf | Boulder_County_Building_Permits | Building permit | BP-08-0871 |
 | 2005-01-25 | BP-05-0129_2005_Replace_Conditioning_Tower.pdf | Boulder_County_Building_Permits | Building permit | BP-05-0129 |
 | 2026-10-12 | RECORD_INDEX.md (137 Boulder County records; files by decade) | 15_Boulder_County_Permit_Records | Index | Boulder County Accela |
+| 2026-10-12 | PHOTO_PERMIT_CROSSWALK.md | 15_Boulder_County_Permit_Records | Crosswalk | Boulder County / imagery |

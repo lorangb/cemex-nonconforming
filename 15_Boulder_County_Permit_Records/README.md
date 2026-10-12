@@ -7,6 +7,7 @@ These are public Boulder County Community Planning & Permitting records tied to 
   - **linked (Accela):** large modern construction or plan sets (2013 onward: telecom, flood, emissions equipment, grading), plus the 2022 Dowe Flats extension docket and the 2015 Dowe Flats review. These are available at the Accela link and are not mirrored, to keep the repo small.
   - **no file available online:** the County lists the record but publishes no file.
   - **not posted:** residential or private-individual permits, weed or zoning enforcement complaints, and the 2026 appeal (AP-26-0001). Within posted records, files that are neighbor or public comments, mailing lists, or individuals' emails are also withheld.
+- **`PHOTO_PERMIT_CROSSWALK.md`** compares structures seen in imagery with County permit records.
 - **BP-05-0129 and BP-08-0871** (rail unloader dust collector) are in `05_Air_Quality_Permit_95OPBO082/P050_Rail_Unloader_Analysis/Boulder_County_Building_Permits/`.
 
 All items are **documented** (County records). The quotes below are taken from the files.

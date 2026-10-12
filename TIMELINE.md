@@ -452,3 +452,4 @@ Files: `05_Air_Quality_Permit_95OPBO082/P050_Rail_Unloader_Analysis/Boulder_Coun
 - **1994-12-22 (documented):** TAP-3143, access permit for an office trailer.
 - **1990s (documented):** Western Mobile Lyons Comprehensive Plan (exhibit in AP-22-0003), p. 3-12: Burlington Northern provides rail service "to Southdown and Ideal's cement terminal located west of Highway 36."
 - **2024-03-12 (documented):** Z-23-0002, Resolution 2024-030, Lyons-area rezoning to Agricultural.
+- **2026-10-12 (documented/reported):** Added a crosswalk of imagery observations against County permit records: `15_Boulder_County_Permit_Records/PHOTO_PERMIT_CROSSWALK.md`.
