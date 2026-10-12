@@ -428,3 +428,8 @@ Dates ending in `-00` mean only the month or year is known. Verify against the d
 | 2026-09-30 | Lyons_Raw_Material_Sourcing_Weaver_Limestone_and_Shale_2026-09-30.md | Z_Related_Other_CEMEX_Mines | PT0658 (Wyoming) |
 | 2026-09-30 | Lyons_Shale_Haul_Cost_Sensitivity_ESTIMATE_2026-09-30.csv | Z_Related_Other_CEMEX_Mines | PT0658 (Wyoming) |
 | 2026-10-06 | 2026-10-06_Public_Records_Extract_Weld_Assessor_and_EPA_ECHO.md | 08_Operational_History_and_Traffic | NorCo terminal (Mountain Cement, Evans) |
+
+### Rail unloader permit 05BO0703 (added 2026-10-12)
+- **2005-03-17 (documented):** CEMEX APEN for the finish mill lists the plant function as "Cement Manufacturing." Raw materials were clinker, gypsum and limestone, and 2004 cement output was 506,867 tons. See `05_Air_Quality_Permit_95OPBO082/P050_Rail_Unloader_Analysis/2005_Construction_Permit_05BO0703/`.
+- **2006-04-11 (documented):** CDPHE issues Construction Permit 05BO0703 (Initial Approval) for a "cement railcar unloading and handling system" (hopper, screw conveyor, pneumatic transfer to silos, baghouse BH 725-4), capped at 50,000 tons per year of cement.
+- **2006-08-17 (documented):** CEMEX APEN for point 050 reports 0 tons per year in the 2004 data year and an operation start of 7/28/2006.

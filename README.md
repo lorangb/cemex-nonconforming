@@ -43,3 +43,5 @@ so the analytic views stay focused. See `CONTRIBUTING.md` to help.
 **A note on analysis files.** Files titled `*_Analysis_*`, `*_Timeline*`, `*_Log*` and similar are
 secondary reading aids built from the cited public records. They label inferences and unverified
 items, and they cite the primary document for every figure; check the primary source before quoting.
+
+**Update 2026-10-12:** Added the 2006 CDPHE construction permit 05BO0703 for the rail unloader and the related APENs, all documented. See `05_Air_Quality_Permit_95OPBO082/P050_Rail_Unloader_Analysis/2005_Construction_Permit_05BO0703/`.

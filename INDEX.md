@@ -783,3 +783,6 @@
 |---|---|---|---|---|
 |  | build_cemex_brief_deck.js |  | Document |  |
 |  | build_cemex_rescission_reversal_deck.js |  | Document |  |
+| 2006-04-11 | 2006-04-11_CDPHE_Construction_Permit_05BO0703_Initial_Approval_P050.pdf | P050_Rail_Unloader_Analysis | Permit | 05BO0703 |
+| 2006-08-17 | 2006-08-17_CEMEX_APEN_05BO0703_P050.pdf | P050_Rail_Unloader_Analysis | APEN | 05BO0703 |
+| 2005-03-17 | 2005-03-17_CEMEX_APEN_P011_Cement_Finish_Mill_2004_data.pdf | P050_Rail_Unloader_Analysis | APEN | 95OPBO082 |
