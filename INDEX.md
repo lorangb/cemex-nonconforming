@@ -786,3 +786,5 @@
 | 2006-04-11 | 2006-04-11_CDPHE_Construction_Permit_05BO0703_Initial_Approval_P050.pdf | P050_Rail_Unloader_Analysis | Permit | 05BO0703 |
 | 2006-08-17 | 2006-08-17_CEMEX_APEN_05BO0703_P050.pdf | P050_Rail_Unloader_Analysis | APEN | 05BO0703 |
 | 2005-03-17 | 2005-03-17_CEMEX_APEN_P011_Cement_Finish_Mill_2004_data.pdf | P050_Rail_Unloader_Analysis | APEN | 95OPBO082 |
+| 2008-06-16 | BP-08-0871_2008_Dust_Collector_Unloading_System.pdf | Boulder_County_Building_Permits | Building permit | BP-08-0871 |
+| 2005-01-25 | BP-05-0129_2005_Replace_Conditioning_Tower.pdf | Boulder_County_Building_Permits | Building permit | BP-05-0129 |

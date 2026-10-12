@@ -433,3 +433,9 @@ Dates ending in `-00` mean only the month or year is known. Verify against the d
 - **2005-03-17 (documented):** CEMEX APEN for the finish mill lists the plant function as "Cement Manufacturing." Raw materials were clinker, gypsum and limestone, and 2004 cement output was 506,867 tons. See `05_Air_Quality_Permit_95OPBO082/P050_Rail_Unloader_Analysis/2005_Construction_Permit_05BO0703/`.
 - **2006-04-11 (documented):** CDPHE issues Construction Permit 05BO0703 (Initial Approval) for a "cement railcar unloading and handling system" (hopper, screw conveyor, pneumatic transfer to silos, baghouse BH 725-4), capped at 50,000 tons per year of cement.
 - **2006-08-17 (documented):** CEMEX APEN for point 050 reports 0 tons per year in the 2004 data year and an operation start of 7/28/2006.
+
+### Boulder County building permits (added 2026-10-12)
+- **2005-01-25 (documented):** Boulder County BP-05-0129, "REPLACE EXISTING CONDITIONING TOWER," valued at $1,700,000. It expired with no inspection. The drawings reference "TOP OF RAIL," conveyors and a "COAL STORAGE SILO."
+- **2008-06-16 (documented):** Boulder County BP-08-0871 is issued, "INSTALL DUST COLLECTOR ON UNLOADING SYSTEM," valued at $15,000; final inspection complete. The field letter says the collector "vents the rail unloading screw conveyor and FK pump located at the southeast corner of the cement shipping silos and pack house structure."
+- **(reported):** the County Accela search found no separate building permit for the 2006 unloader.
+Files: `05_Air_Quality_Permit_95OPBO082/P050_Rail_Unloader_Analysis/Boulder_County_Building_Permits/`.

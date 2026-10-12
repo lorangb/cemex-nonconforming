@@ -45,3 +45,5 @@ secondary reading aids built from the cited public records. They label inference
 items, and they cite the primary document for every figure; check the primary source before quoting.
 
 **Update 2026-10-12:** Added the 2006 CDPHE construction permit 05BO0703 for the rail unloader and the related APENs, all documented. See `05_Air_Quality_Permit_95OPBO082/P050_Rail_Unloader_Analysis/2005_Construction_Permit_05BO0703/`.
+
+**Update 2026-10-12:** Added Boulder County building permits BP-08-0871 (2008, dust collector on the rail unloading system) and BP-05-0129 (2005, replacement of the conditioning tower), both documented. See `05_Air_Quality_Permit_95OPBO082/P050_Rail_Unloader_Analysis/Boulder_County_Building_Permits/`.
