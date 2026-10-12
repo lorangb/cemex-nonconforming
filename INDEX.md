@@ -788,3 +788,4 @@
 | 2005-03-17 | 2005-03-17_CEMEX_APEN_P011_Cement_Finish_Mill_2004_data.pdf | P050_Rail_Unloader_Analysis | APEN | 95OPBO082 |
 | 2008-06-16 | BP-08-0871_2008_Dust_Collector_Unloading_System.pdf | Boulder_County_Building_Permits | Building permit | BP-08-0871 |
 | 2005-01-25 | BP-05-0129_2005_Replace_Conditioning_Tower.pdf | Boulder_County_Building_Permits | Building permit | BP-05-0129 |
+| 2026-10-12 | RECORD_INDEX.md (137 Boulder County records; files by decade) | 15_Boulder_County_Permit_Records | Index | Boulder County Accela |

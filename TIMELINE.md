@@ -439,3 +439,16 @@ Dates ending in `-00` mean only the month or year is known. Verify against the d
 - **2008-06-16 (documented):** Boulder County BP-08-0871 is issued, "INSTALL DUST COLLECTOR ON UNLOADING SYSTEM," valued at $15,000; final inspection complete. The field letter says the collector "vents the rail unloading screw conveyor and FK pump located at the southeast corner of the cement shipping silos and pack house structure."
 - **(reported):** the County Accela search found no separate building permit for the 2006 unloader.
 Files: `05_Air_Quality_Permit_95OPBO082/P050_Rail_Unloader_Analysis/Boulder_County_Building_Permits/`.
+
+### Boulder County permit records (added 2026-10-12; see `15_Boulder_County_Permit_Records/`)
+- **1965-04-27 (documented):** BP-65-8040, Rocky Mountain Cement Co., "Modern cement plant: initial phase," site preparation and foundations.
+- **1967-07-24 (documented):** Z-67-0360, BOCC resolution correcting the County maps to show "GI-General Industrial" (S½ SW¼ Sec. 21; the application lists 60 acres).
+- **1967-09-22 (documented):** BP-67-10137, Martin Marietta Corp., "Modern Cement Plant" superstructure, valued at $15 million.
+- **1973-12-19 (documented):** BP-73-18153, coal storage silo.
+- **1979 (documented):** BP-79-0463, combustion change/kiln.
+- **1984-03-14 (documented):** BP-84-0182, foundation for clinker cooler.
+- **1993-06-02 (documented):** SU-93-14a, Dowe Flats application by Southdown (Southwestern Portland Cement): the mine is to "provide cement plant reserves for 25 years."
+- **1994-04-13 (documented):** LS-94-0097, survey plat for SW Portland Cement Co., 70 acres (no file online).
+- **1994-12-22 (documented):** TAP-3143, access permit for an office trailer.
+- **1990s (documented):** Western Mobile Lyons Comprehensive Plan (exhibit in AP-22-0003), p. 3-12: Burlington Northern provides rail service "to Southdown and Ideal's cement terminal located west of Highway 36."
+- **2024-03-12 (documented):** Z-23-0002, Resolution 2024-030, Lyons-area rezoning to Agricultural.

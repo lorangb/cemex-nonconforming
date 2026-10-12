@@ -47,3 +47,5 @@ items, and they cite the primary document for every figure; check the primary so
 **Update 2026-10-12:** Added the 2006 CDPHE construction permit 05BO0703 for the rail unloader and the related APENs, all documented. See `05_Air_Quality_Permit_95OPBO082/P050_Rail_Unloader_Analysis/2005_Construction_Permit_05BO0703/`.
 
 **Update 2026-10-12:** Added Boulder County building permits BP-08-0871 (2008, dust collector on the rail unloading system) and BP-05-0129 (2005, replacement of the conditioning tower), both documented. See `05_Air_Quality_Permit_95OPBO082/P050_Rail_Unloader_Analysis/Boulder_County_Building_Permits/`.
+
+**Update 2026-10-12:** Added `15_Boulder_County_Permit_Records/`, a complete index of 137 Boulder County records for the Lyons plant area (1965–2026), with public files mirrored by decade (documented). Large modern plan sets are linked to the County's Accela portal, and private or personal records are excluded.
